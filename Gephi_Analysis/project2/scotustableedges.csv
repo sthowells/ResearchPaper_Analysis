@@ -1,0 +1,1522 @@
+Source,Target,Type,Id,Label,timeset,Weight
+"#ruleoflaw","#amyconeybarrett",Undirected,0,,"<[2020-10-15T20:21:45.816Z, 2020-10-15T20:22:31.489Z, 2020-10-15T20:23:58.423Z, 2020-10-15T20:33:54.006Z, 2020-10-15T20:44:03.298Z, 2020-10-15T20:49:02.747Z, 2020-10-15T21:05:52.720Z, 2020-10-15T21:10:44.356Z, 2020-10-15T21:17:28.762Z]>",18
+"#votebluedownballot","#trumpvirus",Undirected,1,,<[2020-10-15T20:22:06.514Z]>,2
+"#foxnews","#scotushearings",Undirected,2,,<[2020-10-15T20:22:07.653Z]>,2
+"#jaimeharrison","#covid_19",Undirected,3,,<[2020-10-15T20:22:08.672Z]>,2
+"#trump","#lyndseygraham",Undirected,4,,<[2020-10-15T20:22:20.186Z]>,2
+"#ca37","#capolitics",Undirected,5,,<[2020-10-15T20:22:20.761Z]>,2
+"#ca37","#capol",Undirected,6,,<[2020-10-15T20:22:20.761Z]>,2
+"#capolitics","#capol",Undirected,7,,"<[2020-10-15T20:22:20.761Z, 2020-10-15T21:05:36.067Z]>",4
+"#amyconeybarrett","#lgbtq",Undirected,8,,<[2020-10-15T20:22:21.786Z]>,2
+"#amyconeybarrett","#dumphate",Undirected,9,,<[2020-10-15T20:22:21.786Z]>,2
+"#lgbtq","#dumphate",Undirected,10,,<[2020-10-15T20:22:21.786Z]>,2
+"#rbg","#freedomtoprotest",Undirected,11,,<[2020-10-15T20:22:24.044Z]>,2
+"#repuglicans","#fredsfailure",Undirected,12,,<[2020-10-15T20:22:45.230Z]>,2
+"#reproductivefreedom","#roeact",Undirected,13,,<[2020-10-15T20:22:48.557Z]>,2
+"#reproductivefreedom","#backbecca",Undirected,14,,<[2020-10-15T20:22:48.557Z]>,2
+"#roeact","#backbecca",Undirected,15,,<[2020-10-15T20:22:48.557Z]>,2
+"#truthbrigade","#wtpblue",Undirected,16,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#truthbrigade","#onev1",Undirected,17,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#truthbrigade","#demvoice1",Undirected,18,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#truthbrigade","#bethechange4usa",Undirected,19,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#wtpblue","#onev1",Undirected,20,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#wtpblue","#demvoice1",Undirected,21,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#wtpblue","#bethechange4usa",Undirected,22,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#onev1","#demvoice1",Undirected,23,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#onev1","#bethechange4usa",Undirected,24,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#demvoice1","#bethechange4usa",Undirected,25,,"<[2020-10-15T20:22:59.461Z, 2020-10-15T21:14:41.908Z]>",4
+"#daylightsavingstime","#daylightsavings",Undirected,26,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavingstime","#amyconeybarrett",Undirected,27,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavingstime","#aca",Undirected,28,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavingstime","#affordablecareact",Undirected,29,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavingstime","#roevwade",Undirected,30,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavingstime","#abortion",Undirected,31,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavings","#amyconeybarrett",Undirected,32,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavings","#aca",Undirected,33,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavings","#affordablecareact",Undirected,34,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavings","#roevwade",Undirected,35,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#daylightsavings","#abortion",Undirected,36,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#amyconeybarrett","#aca",Undirected,37,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#amyconeybarrett","#affordablecareact",Undirected,38,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#amyconeybarrett","#roevwade",Undirected,39,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#amyconeybarrett","#abortion",Undirected,40,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#aca","#affordablecareact",Undirected,41,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#aca","#roevwade",Undirected,42,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#aca","#abortion",Undirected,43,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#affordablecareact","#roevwade",Undirected,44,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#affordablecareact","#abortion",Undirected,45,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#roevwade","#abortion",Undirected,46,,"<[2020-10-15T20:23:19.736Z, 2020-10-15T20:26:57.188Z]>",4
+"#true","#american",Undirected,47,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#leadership",Undirected,48,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#compassionate",Undirected,49,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#leaders",Undirected,50,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#incredible",Undirected,51,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#republicans",Undirected,52,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#rock",Undirected,53,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#please",Undirected,54,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#confirmacb",Undirected,55,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#thanks",Undirected,56,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#amyconeybarrett",Undirected,57,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#future",Undirected,58,,<[2020-10-15T20:23:34.560Z]>,2
+"#true","#usa",Undirected,59,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#leadership",Undirected,60,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#compassionate",Undirected,61,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#leaders",Undirected,62,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#incredible",Undirected,63,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#republicans",Undirected,64,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#rock",Undirected,65,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#please",Undirected,66,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#confirmacb",Undirected,67,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#thanks",Undirected,68,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#amyconeybarrett",Undirected,69,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#future",Undirected,70,,<[2020-10-15T20:23:34.560Z]>,2
+"#american","#usa",Undirected,71,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#compassionate",Undirected,72,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#leaders",Undirected,73,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#incredible",Undirected,74,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#republicans",Undirected,75,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#rock",Undirected,76,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#please",Undirected,77,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#confirmacb",Undirected,78,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#thanks",Undirected,79,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#amyconeybarrett",Undirected,80,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#future",Undirected,81,,<[2020-10-15T20:23:34.560Z]>,2
+"#leadership","#usa",Undirected,82,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#leaders",Undirected,83,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#incredible",Undirected,84,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#republicans",Undirected,85,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#rock",Undirected,86,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#please",Undirected,87,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#confirmacb",Undirected,88,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#thanks",Undirected,89,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#amyconeybarrett",Undirected,90,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#future",Undirected,91,,<[2020-10-15T20:23:34.560Z]>,2
+"#compassionate","#usa",Undirected,92,,<[2020-10-15T20:23:34.560Z]>,2
+"#leaders","#incredible",Undirected,93,,<[2020-10-15T20:23:34.560Z]>,2
+"#leaders","#republicans",Undirected,94,,<[2020-10-15T20:23:34.560Z]>,2
+"#leaders","#rock",Undirected,95,,<[2020-10-15T20:23:34.560Z]>,2
+"#leaders","#please",Undirected,96,,<[2020-10-15T20:23:34.560Z]>,2
+"#leaders","#confirmacb",Undirected,97,,<[2020-10-15T20:23:34.560Z]>,2
+"#leaders","#thanks",Undirected,98,,<[2020-10-15T20:23:34.560Z]>,2
+"#leaders","#amyconeybarrett",Undirected,99,,<[2020-10-15T20:23:34.560Z]>,2
+"#leaders","#future",Undirected,100,,<[2020-10-15T20:23:34.560Z]>,2
+"#leaders","#usa",Undirected,101,,<[2020-10-15T20:23:34.560Z]>,2
+"#incredible","#republicans",Undirected,102,,<[2020-10-15T20:23:34.560Z]>,2
+"#incredible","#rock",Undirected,103,,<[2020-10-15T20:23:34.560Z]>,2
+"#incredible","#please",Undirected,104,,<[2020-10-15T20:23:34.560Z]>,2
+"#incredible","#confirmacb",Undirected,105,,<[2020-10-15T20:23:34.560Z]>,2
+"#incredible","#thanks",Undirected,106,,<[2020-10-15T20:23:34.560Z]>,2
+"#incredible","#amyconeybarrett",Undirected,107,,<[2020-10-15T20:23:34.560Z]>,2
+"#incredible","#future",Undirected,108,,<[2020-10-15T20:23:34.560Z]>,2
+"#incredible","#usa",Undirected,109,,<[2020-10-15T20:23:34.560Z]>,2
+"#republicans","#rock",Undirected,110,,<[2020-10-15T20:23:34.560Z]>,2
+"#republicans","#please",Undirected,111,,<[2020-10-15T20:23:34.560Z]>,2
+"#republicans","#confirmacb",Undirected,112,,<[2020-10-15T20:23:34.560Z]>,2
+"#republicans","#thanks",Undirected,113,,<[2020-10-15T20:23:34.560Z]>,2
+"#republicans","#amyconeybarrett",Undirected,114,,<[2020-10-15T20:23:34.560Z]>,2
+"#republicans","#future",Undirected,115,,<[2020-10-15T20:23:34.560Z]>,2
+"#republicans","#usa",Undirected,116,,<[2020-10-15T20:23:34.560Z]>,2
+"#rock","#please",Undirected,117,,<[2020-10-15T20:23:34.560Z]>,2
+"#rock","#confirmacb",Undirected,118,,<[2020-10-15T20:23:34.560Z]>,2
+"#rock","#thanks",Undirected,119,,<[2020-10-15T20:23:34.560Z]>,2
+"#rock","#amyconeybarrett",Undirected,120,,<[2020-10-15T20:23:34.560Z]>,2
+"#rock","#future",Undirected,121,,<[2020-10-15T20:23:34.560Z]>,2
+"#rock","#usa",Undirected,122,,<[2020-10-15T20:23:34.560Z]>,2
+"#please","#confirmacb",Undirected,123,,<[2020-10-15T20:23:34.560Z]>,2
+"#please","#thanks",Undirected,124,,<[2020-10-15T20:23:34.560Z]>,2
+"#please","#amyconeybarrett",Undirected,125,,<[2020-10-15T20:23:34.560Z]>,2
+"#please","#future",Undirected,126,,<[2020-10-15T20:23:34.560Z]>,2
+"#please","#usa",Undirected,127,,<[2020-10-15T20:23:34.560Z]>,2
+"#confirmacb","#thanks",Undirected,128,,<[2020-10-15T20:23:34.560Z]>,2
+"#confirmacb","#amyconeybarrett",Undirected,129,,"<[2020-10-15T20:23:34.560Z, 2020-10-15T20:33:23.074Z, 2020-10-15T20:39:28.965Z, 2020-10-15T20:43:05.423Z, 2020-10-15T20:50:26.263Z, 2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z, 2020-10-15T21:04:37.412Z]>",16
+"#confirmacb","#future",Undirected,130,,<[2020-10-15T20:23:34.560Z]>,2
+"#confirmacb","#usa",Undirected,131,,<[2020-10-15T20:23:34.560Z]>,2
+"#thanks","#amyconeybarrett",Undirected,132,,<[2020-10-15T20:23:34.560Z]>,2
+"#thanks","#future",Undirected,133,,<[2020-10-15T20:23:34.560Z]>,2
+"#thanks","#usa",Undirected,134,,<[2020-10-15T20:23:34.560Z]>,2
+"#amyconeybarrett","#future",Undirected,135,,<[2020-10-15T20:23:34.560Z]>,2
+"#amyconeybarrett","#usa",Undirected,136,,"<[2020-10-15T20:23:34.560Z, 2020-10-15T20:43:19.225Z]>",4
+"#future","#usa",Undirected,137,,<[2020-10-15T20:23:34.560Z]>,2
+"#voteblue","#erictrumpukrainescandal",Undirected,138,,<[2020-10-15T20:23:44.118Z]>,2
+"#voteblue","#trumpliedamericansdied",Undirected,139,,<[2020-10-15T20:23:44.118Z]>,2
+"#erictrumpukrainescandal","#trumpliedamericansdied",Undirected,140,,<[2020-10-15T20:23:44.118Z]>,2
+"#gopcourtpacking","#unqualified",Undirected,141,,<[2020-10-15T20:24:06.946Z]>,2
+"#gopcourtpacking","#1stamendment",Undirected,142,,<[2020-10-15T20:24:06.946Z]>,2
+"#gopcourtpacking","#treasonoustrump",Undirected,143,,<[2020-10-15T20:24:06.946Z]>,2
+"#gopcourtpacking","#gopvotersuppression",Undirected,144,,<[2020-10-15T20:24:06.946Z]>,2
+"#gopcourtpacking","#constitutionalrights",Undirected,145,,<[2020-10-15T20:24:06.946Z]>,2
+"#unqualified","#1stamendment",Undirected,146,,<[2020-10-15T20:24:06.946Z]>,2
+"#unqualified","#treasonoustrump",Undirected,147,,<[2020-10-15T20:24:06.946Z]>,2
+"#unqualified","#gopvotersuppression",Undirected,148,,<[2020-10-15T20:24:06.946Z]>,2
+"#unqualified","#constitutionalrights",Undirected,149,,<[2020-10-15T20:24:06.946Z]>,2
+"#1stamendment","#treasonoustrump",Undirected,150,,<[2020-10-15T20:24:06.946Z]>,2
+"#1stamendment","#gopvotersuppression",Undirected,151,,<[2020-10-15T20:24:06.946Z]>,2
+"#1stamendment","#constitutionalrights",Undirected,152,,<[2020-10-15T20:24:06.946Z]>,2
+"#treasonoustrump","#gopvotersuppression",Undirected,153,,<[2020-10-15T20:24:06.946Z]>,2
+"#treasonoustrump","#constitutionalrights",Undirected,154,,<[2020-10-15T20:24:06.946Z]>,2
+"#gopvotersuppression","#constitutionalrights",Undirected,155,,<[2020-10-15T20:24:06.946Z]>,2
+"#breaking","#roberts",Undirected,156,,"<[2020-10-15T20:24:28.349Z, 2020-10-15T20:32:07.090Z, 2020-10-15T21:08:10.830Z]>",6
+"#takebackthesenate","#bidenharris",Undirected,157,,<[2020-10-15T20:25:03.157Z]>,2
+"#takebackthesenate","#gopcorruptionovercountry",Undirected,158,,<[2020-10-15T20:25:03.157Z]>,2
+"#takebackthesenate","#sasse",Undirected,159,,<[2020-10-15T20:25:03.157Z]>,2
+"#bidenharris","#gopcorruptionovercountry",Undirected,160,,<[2020-10-15T20:25:03.157Z]>,2
+"#bidenharris","#sasse",Undirected,161,,<[2020-10-15T20:25:03.157Z]>,2
+"#gopcorruptionovercountry","#sasse",Undirected,162,,<[2020-10-15T20:25:03.157Z]>,2
+"#disability","#ada",Undirected,163,,<[2020-10-15T20:25:34.449Z]>,2
+"#acb","#promiseskept",Undirected,164,,<[2020-10-15T20:25:35.278Z]>,2
+"#acb","#peacepotus",Undirected,165,,<[2020-10-15T20:25:35.278Z]>,2
+"#acb","#lawandorder",Undirected,166,,<[2020-10-15T20:25:35.278Z]>,2
+"#acb","#maga",Undirected,167,,<[2020-10-15T20:25:35.278Z]>,2
+"#acb","#election2020",Undirected,168,,<[2020-10-15T20:25:35.278Z]>,2
+"#promiseskept","#peacepotus",Undirected,169,,<[2020-10-15T20:25:35.278Z]>,2
+"#promiseskept","#lawandorder",Undirected,170,,<[2020-10-15T20:25:35.278Z]>,2
+"#promiseskept","#maga",Undirected,171,,<[2020-10-15T20:25:35.278Z]>,2
+"#promiseskept","#election2020",Undirected,172,,<[2020-10-15T20:25:35.278Z]>,2
+"#peacepotus","#lawandorder",Undirected,173,,<[2020-10-15T20:25:35.278Z]>,2
+"#peacepotus","#maga",Undirected,174,,<[2020-10-15T20:25:35.278Z]>,2
+"#peacepotus","#election2020",Undirected,175,,<[2020-10-15T20:25:35.278Z]>,2
+"#lawandorder","#maga",Undirected,176,,<[2020-10-15T20:25:35.278Z]>,2
+"#lawandorder","#election2020",Undirected,177,,<[2020-10-15T20:25:35.278Z]>,2
+"#maga","#election2020",Undirected,178,,<[2020-10-15T20:25:35.278Z]>,2
+"#foxandfriends","#morningjoe",Undirected,179,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z, 2020-10-15T20:41:46.996Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",36
+"#foxandfriends","#wednesdaythoughts",Undirected,180,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z]>",4
+"#foxandfriends","#scotushearings",Undirected,181,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",34
+"#foxandfriends","#ccot",Undirected,182,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",34
+"#morningjoe","#wednesdaythoughts",Undirected,183,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z]>",4
+"#morningjoe","#scotushearings",Undirected,184,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",34
+"#morningjoe","#ccot",Undirected,185,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",34
+"#wednesdaythoughts","#scotushearings",Undirected,186,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z]>",4
+"#wednesdaythoughts","#ccot",Undirected,187,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z]>",4
+"#scotushearings","#ccot",Undirected,188,,"<[2020-10-15T20:25:38.608Z, 2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",34
+"#gophypocrisy","#goppowerovercountry",Undirected,189,,<[2020-10-15T20:25:58.702Z]>,2
+"#republikkklans","#russiacyberarmy",Undirected,190,,<[2020-10-15T20:26:49.852Z]>,2
+"#flipthesenateblue","#lindseygrahamislosing",Undirected,191,,<[2020-10-15T20:26:54.196Z]>,2
+"#flipthesenateblue","#jamieharrison4senate",Undirected,192,,<[2020-10-15T20:26:54.196Z]>,2
+"#flipthesenateblue","#moscowmitch",Undirected,193,,"<[2020-10-15T20:26:54.196Z, 2020-10-15T20:33:09.950Z]>",4
+"#lindseygrahamislosing","#jamieharrison4senate",Undirected,194,,<[2020-10-15T20:26:54.196Z]>,2
+"#lindseygrahamislosing","#moscowmitch",Undirected,195,,<[2020-10-15T20:26:54.196Z]>,2
+"#jamieharrison4senate","#moscowmitch",Undirected,196,,<[2020-10-15T20:26:54.196Z]>,2
+"#crookedjoebiden","#filltheseat",Undirected,197,,<[2020-10-15T20:27:19.354Z]>,2
+"#crookedjoebiden","#voteredtosaveamerica",Undirected,198,,<[2020-10-15T20:27:19.354Z]>,2
+"#filltheseat","#voteredtosaveamerica",Undirected,199,,<[2020-10-15T20:27:19.354Z]>,2
+"#barrett","#acb",Undirected,200,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#barrett","#sharp",Undirected,201,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#barrett","#accurate",Undirected,202,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#barrett","#confirmacb",Undirected,203,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#barrett","#judgebarrett",Undirected,204,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#barrett","#barrettfirearms",Undirected,205,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#barrett","#mrad",Undirected,206,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#barrett","#tightgroups",Undirected,207,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#acb","#sharp",Undirected,208,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#acb","#accurate",Undirected,209,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#acb","#confirmacb",Undirected,210,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z, 2020-10-15T21:10:47.695Z, 2020-10-15T21:15:07.414Z]>",8
+"#acb","#judgebarrett",Undirected,211,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#acb","#barrettfirearms",Undirected,212,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#acb","#mrad",Undirected,213,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#acb","#tightgroups",Undirected,214,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#sharp","#accurate",Undirected,215,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#sharp","#confirmacb",Undirected,216,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#sharp","#judgebarrett",Undirected,217,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#sharp","#barrettfirearms",Undirected,218,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#sharp","#mrad",Undirected,219,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#sharp","#tightgroups",Undirected,220,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#accurate","#confirmacb",Undirected,221,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#accurate","#judgebarrett",Undirected,222,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#accurate","#barrettfirearms",Undirected,223,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#accurate","#mrad",Undirected,224,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#accurate","#tightgroups",Undirected,225,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#confirmacb","#judgebarrett",Undirected,226,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z, 2020-10-15T20:50:21.251Z]>",6
+"#confirmacb","#barrettfirearms",Undirected,227,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#confirmacb","#mrad",Undirected,228,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#confirmacb","#tightgroups",Undirected,229,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#judgebarrett","#barrettfirearms",Undirected,230,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#judgebarrett","#mrad",Undirected,231,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#judgebarrett","#tightgroups",Undirected,232,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#barrettfirearms","#mrad",Undirected,233,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#barrettfirearms","#tightgroups",Undirected,234,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#mrad","#tightgroups",Undirected,235,,"<[2020-10-15T20:27:26.591Z, 2020-10-15T20:28:48.031Z]>",4
+"#andpacs","#andrichfuckers",Undirected,236,,<[2020-10-15T20:27:50.877Z]>,2
+"#amyisunfit","#unfitamy",Undirected,237,,<[2020-10-15T20:28:09.522Z]>,2
+"#democrats","#twitter",Undirected,238,,<[2020-10-15T20:28:27.233Z]>,2
+"#democrats","#jackdorseysucks",Undirected,239,,<[2020-10-15T20:28:27.233Z]>,2
+"#democrats","#trump2020",Undirected,240,,<[2020-10-15T20:28:27.233Z]>,2
+"#twitter","#jackdorseysucks",Undirected,241,,<[2020-10-15T20:28:27.233Z]>,2
+"#twitter","#trump2020",Undirected,242,,<[2020-10-15T20:28:27.233Z]>,2
+"#jackdorseysucks","#trump2020",Undirected,243,,<[2020-10-15T20:28:27.233Z]>,2
+"#new","#trump",Undirected,244,,"<[2020-10-15T20:28:29.185Z, 2020-10-15T21:13:22.139Z, 2020-10-15T21:13:49.828Z]>",6
+"#new","#census2020",Undirected,245,,"<[2020-10-15T20:28:29.185Z, 2020-10-15T21:13:22.139Z]>",4
+"#trump","#census2020",Undirected,246,,"<[2020-10-15T20:28:29.185Z, 2020-10-15T21:13:22.139Z]>",4
+"#trumpisalaughingstock","#scotusnomination",Undirected,247,,<[2020-10-15T20:28:33.274Z]>,2
+"#trumpisalaughingstock","#scotushearing",Undirected,248,,<[2020-10-15T20:28:33.274Z]>,2
+"#trumpisalaughingstock","#scotussham",Undirected,249,,<[2020-10-15T20:28:33.274Z]>,2
+"#trumpisalaughingstock","#covidiots",Undirected,250,,<[2020-10-15T20:28:33.274Z]>,2
+"#trumpisalaughingstock","#supremecourtconfirmation",Undirected,251,,<[2020-10-15T20:28:33.274Z]>,2
+"#scotusnomination","#scotushearing",Undirected,252,,<[2020-10-15T20:28:33.274Z]>,2
+"#scotusnomination","#scotussham",Undirected,253,,<[2020-10-15T20:28:33.274Z]>,2
+"#scotusnomination","#covidiots",Undirected,254,,<[2020-10-15T20:28:33.274Z]>,2
+"#scotusnomination","#supremecourtconfirmation",Undirected,255,,<[2020-10-15T20:28:33.274Z]>,2
+"#scotushearing","#scotussham",Undirected,256,,<[2020-10-15T20:28:33.274Z]>,2
+"#scotushearing","#covidiots",Undirected,257,,<[2020-10-15T20:28:33.274Z]>,2
+"#scotushearing","#supremecourtconfirmation",Undirected,258,,<[2020-10-15T20:28:33.274Z]>,2
+"#scotussham","#covidiots",Undirected,259,,<[2020-10-15T20:28:33.274Z]>,2
+"#scotussham","#supremecourtconfirmation",Undirected,260,,<[2020-10-15T20:28:33.274Z]>,2
+"#covidiots","#supremecourtconfirmation",Undirected,261,,<[2020-10-15T20:28:33.274Z]>,2
+"#amyisaliar","#unfitamy",Undirected,262,,<[2020-10-15T20:28:52.785Z]>,2
+"#mcconnell","#amyconeybarrett",Undirected,263,,"<[2020-10-15T20:29:04.614Z, 2020-10-15T20:46:22.308Z]>",4
+"#scotusnomination","#votethemallout",Undirected,264,,<[2020-10-15T20:29:32.763Z]>,2
+"#amyconeybarrett","#supremecourt",Undirected,265,,"<[2020-10-15T20:29:39.436Z, 2020-10-15T20:43:30.787Z, 2020-10-15T20:44:49.763Z, 2020-10-15T20:55:16.651Z, 2020-10-15T21:05:48.288Z, 2020-10-15T21:14:18.407Z, 2020-10-15T21:14:33.948Z]>",14
+"#trump2020","#presidentt",Undirected,266,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#trump2020","#californiafortrump",Undirected,267,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#trump2020","#californiaisred",Undirected,268,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#trump2020","#bigredwavenow",Undirected,269,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#presidentt","#californiafortrump",Undirected,270,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#presidentt","#californiaisred",Undirected,271,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#presidentt","#bigredwavenow",Undirected,272,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#californiafortrump","#californiaisred",Undirected,273,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#californiafortrump","#bigredwavenow",Undirected,274,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#californiaisred","#bigredwavenow",Undirected,275,,"<[2020-10-15T20:29:40.256Z, 2020-10-15T20:51:14.611Z, 2020-10-15T20:52:12.342Z, 2020-10-15T20:57:05.272Z, 2020-10-15T21:04:45.826Z, 2020-10-15T21:10:44.751Z, 2020-10-15T21:10:45.017Z, 2020-10-15T21:14:36.819Z]>",16
+"#uselection2020","#potus",Undirected,276,,<[2020-10-15T20:29:43.431Z]>,2
+"#sasse","#trump",Undirected,277,,<[2020-10-15T20:29:53.569Z]>,2
+"#letthepeopledecide","#rbg",Undirected,278,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#womensrightsarehumanrights",Undirected,279,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#healthcare",Undirected,280,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#preexistingconditions",Undirected,281,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#vote",Undirected,282,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#bidenharris2020tosaveamerica",Undirected,283,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#georgia",Undirected,284,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#texas",Undirected,285,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#florida",Undirected,286,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#southcarolina",Undirected,287,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#newyork",Undirected,288,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#newjersey",Undirected,289,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#wisconsin",Undirected,290,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#arizona",Undirected,291,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#california",Undirected,292,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#pennsylvania",Undirected,293,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#washington",Undirected,294,,<[2020-10-15T20:30:16.641Z]>,2
+"#letthepeopledecide","#200kdeadamericans",Undirected,295,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#womensrightsarehumanrights",Undirected,296,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#healthcare",Undirected,297,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#preexistingconditions",Undirected,298,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#vote",Undirected,299,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#bidenharris2020tosaveamerica",Undirected,300,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#georgia",Undirected,301,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#texas",Undirected,302,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#florida",Undirected,303,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#southcarolina",Undirected,304,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#newyork",Undirected,305,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#newjersey",Undirected,306,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#wisconsin",Undirected,307,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#arizona",Undirected,308,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#california",Undirected,309,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#pennsylvania",Undirected,310,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#washington",Undirected,311,,<[2020-10-15T20:30:16.641Z]>,2
+"#rbg","#200kdeadamericans",Undirected,312,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#healthcare",Undirected,313,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#preexistingconditions",Undirected,314,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#vote",Undirected,315,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#bidenharris2020tosaveamerica",Undirected,316,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#georgia",Undirected,317,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#texas",Undirected,318,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#florida",Undirected,319,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#southcarolina",Undirected,320,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#newyork",Undirected,321,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#newjersey",Undirected,322,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#wisconsin",Undirected,323,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#arizona",Undirected,324,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#california",Undirected,325,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#pennsylvania",Undirected,326,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#washington",Undirected,327,,<[2020-10-15T20:30:16.641Z]>,2
+"#womensrightsarehumanrights","#200kdeadamericans",Undirected,328,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#preexistingconditions",Undirected,329,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#vote",Undirected,330,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#bidenharris2020tosaveamerica",Undirected,331,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#georgia",Undirected,332,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#texas",Undirected,333,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#florida",Undirected,334,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#southcarolina",Undirected,335,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#newyork",Undirected,336,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#newjersey",Undirected,337,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#wisconsin",Undirected,338,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#arizona",Undirected,339,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#california",Undirected,340,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#pennsylvania",Undirected,341,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#washington",Undirected,342,,<[2020-10-15T20:30:16.641Z]>,2
+"#healthcare","#200kdeadamericans",Undirected,343,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#vote",Undirected,344,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#bidenharris2020tosaveamerica",Undirected,345,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#georgia",Undirected,346,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#texas",Undirected,347,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#florida",Undirected,348,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#southcarolina",Undirected,349,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#newyork",Undirected,350,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#newjersey",Undirected,351,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#wisconsin",Undirected,352,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#arizona",Undirected,353,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#california",Undirected,354,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#pennsylvania",Undirected,355,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#washington",Undirected,356,,<[2020-10-15T20:30:16.641Z]>,2
+"#preexistingconditions","#200kdeadamericans",Undirected,357,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#bidenharris2020tosaveamerica",Undirected,358,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#georgia",Undirected,359,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#texas",Undirected,360,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#florida",Undirected,361,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#southcarolina",Undirected,362,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#newyork",Undirected,363,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#newjersey",Undirected,364,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#wisconsin",Undirected,365,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#arizona",Undirected,366,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#california",Undirected,367,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#pennsylvania",Undirected,368,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#washington",Undirected,369,,<[2020-10-15T20:30:16.641Z]>,2
+"#vote","#200kdeadamericans",Undirected,370,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#georgia",Undirected,371,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#texas",Undirected,372,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#florida",Undirected,373,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#southcarolina",Undirected,374,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#newyork",Undirected,375,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#newjersey",Undirected,376,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#wisconsin",Undirected,377,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#arizona",Undirected,378,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#california",Undirected,379,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#pennsylvania",Undirected,380,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#washington",Undirected,381,,<[2020-10-15T20:30:16.641Z]>,2
+"#bidenharris2020tosaveamerica","#200kdeadamericans",Undirected,382,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#texas",Undirected,383,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#florida",Undirected,384,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#southcarolina",Undirected,385,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#newyork",Undirected,386,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#newjersey",Undirected,387,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#wisconsin",Undirected,388,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#arizona",Undirected,389,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#california",Undirected,390,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#pennsylvania",Undirected,391,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#washington",Undirected,392,,<[2020-10-15T20:30:16.641Z]>,2
+"#georgia","#200kdeadamericans",Undirected,393,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#florida",Undirected,394,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#southcarolina",Undirected,395,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#newyork",Undirected,396,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#newjersey",Undirected,397,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#wisconsin",Undirected,398,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#arizona",Undirected,399,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#california",Undirected,400,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#pennsylvania",Undirected,401,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#washington",Undirected,402,,<[2020-10-15T20:30:16.641Z]>,2
+"#texas","#200kdeadamericans",Undirected,403,,<[2020-10-15T20:30:16.641Z]>,2
+"#florida","#southcarolina",Undirected,404,,<[2020-10-15T20:30:16.641Z]>,2
+"#florida","#newyork",Undirected,405,,<[2020-10-15T20:30:16.641Z]>,2
+"#florida","#newjersey",Undirected,406,,<[2020-10-15T20:30:16.641Z]>,2
+"#florida","#wisconsin",Undirected,407,,<[2020-10-15T20:30:16.641Z]>,2
+"#florida","#arizona",Undirected,408,,<[2020-10-15T20:30:16.641Z]>,2
+"#florida","#california",Undirected,409,,<[2020-10-15T20:30:16.641Z]>,2
+"#florida","#pennsylvania",Undirected,410,,<[2020-10-15T20:30:16.641Z]>,2
+"#florida","#washington",Undirected,411,,<[2020-10-15T20:30:16.641Z]>,2
+"#florida","#200kdeadamericans",Undirected,412,,<[2020-10-15T20:30:16.641Z]>,2
+"#southcarolina","#newyork",Undirected,413,,<[2020-10-15T20:30:16.641Z]>,2
+"#southcarolina","#newjersey",Undirected,414,,<[2020-10-15T20:30:16.641Z]>,2
+"#southcarolina","#wisconsin",Undirected,415,,<[2020-10-15T20:30:16.641Z]>,2
+"#southcarolina","#arizona",Undirected,416,,<[2020-10-15T20:30:16.641Z]>,2
+"#southcarolina","#california",Undirected,417,,<[2020-10-15T20:30:16.641Z]>,2
+"#southcarolina","#pennsylvania",Undirected,418,,<[2020-10-15T20:30:16.641Z]>,2
+"#southcarolina","#washington",Undirected,419,,<[2020-10-15T20:30:16.641Z]>,2
+"#southcarolina","#200kdeadamericans",Undirected,420,,<[2020-10-15T20:30:16.641Z]>,2
+"#newyork","#newjersey",Undirected,421,,<[2020-10-15T20:30:16.641Z]>,2
+"#newyork","#wisconsin",Undirected,422,,<[2020-10-15T20:30:16.641Z]>,2
+"#newyork","#arizona",Undirected,423,,<[2020-10-15T20:30:16.641Z]>,2
+"#newyork","#california",Undirected,424,,<[2020-10-15T20:30:16.641Z]>,2
+"#newyork","#pennsylvania",Undirected,425,,<[2020-10-15T20:30:16.641Z]>,2
+"#newyork","#washington",Undirected,426,,<[2020-10-15T20:30:16.641Z]>,2
+"#newyork","#200kdeadamericans",Undirected,427,,<[2020-10-15T20:30:16.641Z]>,2
+"#newjersey","#wisconsin",Undirected,428,,<[2020-10-15T20:30:16.641Z]>,2
+"#newjersey","#arizona",Undirected,429,,<[2020-10-15T20:30:16.641Z]>,2
+"#newjersey","#california",Undirected,430,,<[2020-10-15T20:30:16.641Z]>,2
+"#newjersey","#pennsylvania",Undirected,431,,<[2020-10-15T20:30:16.641Z]>,2
+"#newjersey","#washington",Undirected,432,,<[2020-10-15T20:30:16.641Z]>,2
+"#newjersey","#200kdeadamericans",Undirected,433,,<[2020-10-15T20:30:16.641Z]>,2
+"#wisconsin","#arizona",Undirected,434,,<[2020-10-15T20:30:16.641Z]>,2
+"#wisconsin","#california",Undirected,435,,<[2020-10-15T20:30:16.641Z]>,2
+"#wisconsin","#pennsylvania",Undirected,436,,<[2020-10-15T20:30:16.641Z]>,2
+"#wisconsin","#washington",Undirected,437,,<[2020-10-15T20:30:16.641Z]>,2
+"#wisconsin","#200kdeadamericans",Undirected,438,,<[2020-10-15T20:30:16.641Z]>,2
+"#arizona","#california",Undirected,439,,<[2020-10-15T20:30:16.641Z]>,2
+"#arizona","#pennsylvania",Undirected,440,,<[2020-10-15T20:30:16.641Z]>,2
+"#arizona","#washington",Undirected,441,,<[2020-10-15T20:30:16.641Z]>,2
+"#arizona","#200kdeadamericans",Undirected,442,,<[2020-10-15T20:30:16.641Z]>,2
+"#california","#pennsylvania",Undirected,443,,<[2020-10-15T20:30:16.641Z]>,2
+"#california","#washington",Undirected,444,,<[2020-10-15T20:30:16.641Z]>,2
+"#california","#200kdeadamericans",Undirected,445,,<[2020-10-15T20:30:16.641Z]>,2
+"#pennsylvania","#washington",Undirected,446,,<[2020-10-15T20:30:16.641Z]>,2
+"#pennsylvania","#200kdeadamericans",Undirected,447,,<[2020-10-15T20:30:16.641Z]>,2
+"#washington","#200kdeadamericans",Undirected,448,,<[2020-10-15T20:30:16.641Z]>,2
+"#qdrop","#q",Undirected,449,,<[2020-10-15T20:30:23.870Z]>,2
+"#justicekennedy","#deutschebank",Undirected,450,,"<[2020-10-15T20:30:42.416Z, 2020-10-15T20:35:27.137Z, 2020-10-15T20:36:24.313Z, 2020-10-15T20:39:00.414Z, 2020-10-15T20:39:01.987Z, 2020-10-15T20:39:06.136Z, 2020-10-15T20:39:33.239Z, 2020-10-15T21:04:23.804Z, 2020-10-15T21:09:14.728Z]>",18
+"#justicekennedy","#brettkavanaugh",Undirected,451,,"<[2020-10-15T20:30:42.416Z, 2020-10-15T20:35:27.137Z, 2020-10-15T20:36:24.313Z, 2020-10-15T20:39:00.414Z, 2020-10-15T20:39:01.987Z, 2020-10-15T20:39:06.136Z, 2020-10-15T20:39:33.239Z, 2020-10-15T21:04:23.804Z, 2020-10-15T21:09:14.728Z]>",18
+"#deutschebank","#brettkavanaugh",Undirected,452,,"<[2020-10-15T20:30:42.416Z, 2020-10-15T20:35:27.137Z, 2020-10-15T20:36:24.313Z, 2020-10-15T20:39:00.414Z, 2020-10-15T20:39:01.987Z, 2020-10-15T20:39:06.136Z, 2020-10-15T20:39:33.239Z, 2020-10-15T21:04:23.804Z, 2020-10-15T21:09:14.728Z]>",18
+"#coneybarrettsucks","#lindseygrahamisatraitor",Undirected,453,,<[2020-10-15T20:30:44.153Z]>,2
+"#trumptaxfraud","#trumptaxreturns",Undirected,454,,<[2020-10-15T20:31:12.817Z]>,2
+"#trumptaxfraud","#whodidyourape",Undirected,455,,<[2020-10-15T20:31:12.817Z]>,2
+"#trumptaxfraud","#showusthedna",Undirected,456,,<[2020-10-15T20:31:12.817Z]>,2
+"#trumptaxfraud","#trumpisarapist",Undirected,457,,<[2020-10-15T20:31:12.817Z]>,2
+"#trumptaxreturns","#whodidyourape",Undirected,458,,<[2020-10-15T20:31:12.817Z]>,2
+"#trumptaxreturns","#showusthedna",Undirected,459,,<[2020-10-15T20:31:12.817Z]>,2
+"#trumptaxreturns","#trumpisarapist",Undirected,460,,<[2020-10-15T20:31:12.817Z]>,2
+"#whodidyourape","#showusthedna",Undirected,461,,<[2020-10-15T20:31:12.817Z]>,2
+"#whodidyourape","#trumpisarapist",Undirected,462,,<[2020-10-15T20:31:12.817Z]>,2
+"#showusthedna","#trumpisarapist",Undirected,463,,<[2020-10-15T20:31:12.817Z]>,2
+"#2020census","#mitchmcconnell",Undirected,464,,<[2020-10-15T20:32:29.420Z]>,2
+"#bidencorruption","#democratsarecorrupt",Undirected,465,,<[2020-10-15T20:32:48.140Z]>,2
+"#votebidenharris2020","#ourfuture",Undirected,466,,<[2020-10-15T20:33:07.832Z]>,2
+"#flipthesenateblue","#iasen",Undirected,467,,<[2020-10-15T20:33:09.950Z]>,2
+"#flipthesenateblue","#trumpisnotamerica",Undirected,468,,<[2020-10-15T20:33:09.950Z]>,2
+"#iasen","#moscowmitch",Undirected,469,,<[2020-10-15T20:33:09.950Z]>,2
+"#iasen","#trumpisnotamerica",Undirected,470,,<[2020-10-15T20:33:09.950Z]>,2
+"#moscowmitch","#trumpisnotamerica",Undirected,471,,<[2020-10-15T20:33:09.950Z]>,2
+"#senateconfirmation","#amyconeybarrett",Undirected,472,,"<[2020-10-15T20:33:15.974Z, 2020-10-15T20:33:25.327Z, 2020-10-15T20:33:29.990Z, 2020-10-15T20:36:03.718Z, 2020-10-15T20:38:12.850Z, 2020-10-15T20:38:44.312Z, 2020-10-15T20:40:06.472Z, 2020-10-15T20:41:14.685Z, 2020-10-15T20:41:18.865Z, 2020-10-15T20:41:43.018Z, 2020-10-15T20:50:01.014Z, 2020-10-15T20:50:23.945Z, 2020-10-15T21:14:30.856Z]>",26
+"#crookedjoebiden","#scotushearings",Undirected,473,,<[2020-10-15T20:33:23.074Z]>,2
+"#crookedjoebiden","#acbhearings",Undirected,474,,<[2020-10-15T20:33:23.074Z]>,2
+"#crookedjoebiden","#confirmacb",Undirected,475,,<[2020-10-15T20:33:23.074Z]>,2
+"#crookedjoebiden","#amyconeybarrett",Undirected,476,,<[2020-10-15T20:33:23.074Z]>,2
+"#crookedjoebiden","#bidencrimefamily",Undirected,477,,<[2020-10-15T20:33:23.074Z]>,2
+"#crookedjoebiden","#biden2020",Undirected,478,,<[2020-10-15T20:33:23.074Z]>,2
+"#crookedjoebiden","#bidenharris",Undirected,479,,<[2020-10-15T20:33:23.074Z]>,2
+"#scotushearings","#acbhearings",Undirected,480,,<[2020-10-15T20:33:23.074Z]>,2
+"#scotushearings","#confirmacb",Undirected,481,,<[2020-10-15T20:33:23.074Z]>,2
+"#scotushearings","#amyconeybarrett",Undirected,482,,"<[2020-10-15T20:33:23.074Z, 2020-10-15T20:44:46.240Z, 2020-10-15T21:15:17.322Z]>",6
+"#scotushearings","#bidencrimefamily",Undirected,483,,<[2020-10-15T20:33:23.074Z]>,2
+"#scotushearings","#biden2020",Undirected,484,,<[2020-10-15T20:33:23.074Z]>,2
+"#scotushearings","#bidenharris",Undirected,485,,<[2020-10-15T20:33:23.074Z]>,2
+"#acbhearings","#confirmacb",Undirected,486,,"<[2020-10-15T20:33:23.074Z, 2020-10-15T20:39:28.965Z]>",4
+"#acbhearings","#amyconeybarrett",Undirected,487,,"<[2020-10-15T20:33:23.074Z, 2020-10-15T20:39:28.965Z, 2020-10-15T20:47:54.086Z]>",6
+"#acbhearings","#bidencrimefamily",Undirected,488,,<[2020-10-15T20:33:23.074Z]>,2
+"#acbhearings","#biden2020",Undirected,489,,<[2020-10-15T20:33:23.074Z]>,2
+"#acbhearings","#bidenharris",Undirected,490,,<[2020-10-15T20:33:23.074Z]>,2
+"#confirmacb","#bidencrimefamily",Undirected,491,,<[2020-10-15T20:33:23.074Z]>,2
+"#confirmacb","#biden2020",Undirected,492,,<[2020-10-15T20:33:23.074Z]>,2
+"#confirmacb","#bidenharris",Undirected,493,,<[2020-10-15T20:33:23.074Z]>,2
+"#amyconeybarrett","#bidencrimefamily",Undirected,494,,<[2020-10-15T20:33:23.074Z]>,2
+"#amyconeybarrett","#biden2020",Undirected,495,,<[2020-10-15T20:33:23.074Z]>,2
+"#amyconeybarrett","#bidenharris",Undirected,496,,<[2020-10-15T20:33:23.074Z]>,2
+"#bidencrimefamily","#biden2020",Undirected,497,,<[2020-10-15T20:33:23.074Z]>,2
+"#bidencrimefamily","#bidenharris",Undirected,498,,<[2020-10-15T20:33:23.074Z]>,2
+"#biden2020","#bidenharris",Undirected,499,,<[2020-10-15T20:33:23.074Z]>,2
+"#linegradlindsey","#beggingassladyg",Undirected,500,,<[2020-10-15T20:33:23.075Z]>,2
+"#ofjesse","#gopbetrayedamerica",Undirected,501,,<[2020-10-15T20:33:29.950Z]>,2
+"#scotushearing","#covid19",Undirected,502,,<[2020-10-15T20:33:43.371Z]>,2
+"#scotushearing","#aca",Undirected,503,,<[2020-10-15T20:33:43.371Z]>,2
+"#covid19","#aca",Undirected,504,,<[2020-10-15T20:33:43.371Z]>,2
+"#vote","#votebluetosaveamerica",Undirected,505,,<[2020-10-15T20:33:46.227Z]>,2
+"#whatsatstake","#aca",Undirected,506,,<[2020-10-15T20:33:47.357Z]>,2
+"#royalehightrades","#raiders",Undirected,507,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#spiritday",Undirected,508,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#sistasonbet",Undirected,509,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#scotushearing",Undirected,510,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#startrekdiscovery",Undirected,511,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#scotushearings",Undirected,512,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#twittercensorship",Undirected,513,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#trumpcrimefamily",Undirected,514,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#thursdayvibes",Undirected,515,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#thursdaymorning",Undirected,516,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#thebachelorette",Undirected,517,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#themaskedsinger",Undirected,518,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#trump2020",Undirected,519,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#trump",Undirected,520,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#unflatteringdogphotochallenge",Undirected,521,,<[2020-10-15T20:33:54.161Z]>,2
+"#royalehightrades","#universeboss",Undirected,522,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#spiritday",Undirected,523,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#sistasonbet",Undirected,524,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#scotushearing",Undirected,525,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#startrekdiscovery",Undirected,526,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#scotushearings",Undirected,527,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#twittercensorship",Undirected,528,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#trumpcrimefamily",Undirected,529,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#thursdayvibes",Undirected,530,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#thursdaymorning",Undirected,531,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#thebachelorette",Undirected,532,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#themaskedsinger",Undirected,533,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#trump2020",Undirected,534,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#trump",Undirected,535,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#unflatteringdogphotochallenge",Undirected,536,,<[2020-10-15T20:33:54.161Z]>,2
+"#raiders","#universeboss",Undirected,537,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#sistasonbet",Undirected,538,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#scotushearing",Undirected,539,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#startrekdiscovery",Undirected,540,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#scotushearings",Undirected,541,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#twittercensorship",Undirected,542,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#trumpcrimefamily",Undirected,543,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#thursdayvibes",Undirected,544,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#thursdaymorning",Undirected,545,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#thebachelorette",Undirected,546,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#themaskedsinger",Undirected,547,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#trump2020",Undirected,548,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#trump",Undirected,549,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#unflatteringdogphotochallenge",Undirected,550,,<[2020-10-15T20:33:54.161Z]>,2
+"#spiritday","#universeboss",Undirected,551,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#scotushearing",Undirected,552,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#startrekdiscovery",Undirected,553,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#scotushearings",Undirected,554,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#twittercensorship",Undirected,555,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#trumpcrimefamily",Undirected,556,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#thursdayvibes",Undirected,557,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#thursdaymorning",Undirected,558,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#thebachelorette",Undirected,559,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#themaskedsinger",Undirected,560,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#trump2020",Undirected,561,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#trump",Undirected,562,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#unflatteringdogphotochallenge",Undirected,563,,<[2020-10-15T20:33:54.161Z]>,2
+"#sistasonbet","#universeboss",Undirected,564,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#startrekdiscovery",Undirected,565,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#scotushearings",Undirected,566,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#twittercensorship",Undirected,567,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#trumpcrimefamily",Undirected,568,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#thursdayvibes",Undirected,569,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#thursdaymorning",Undirected,570,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#thebachelorette",Undirected,571,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#themaskedsinger",Undirected,572,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#trump2020",Undirected,573,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#trump",Undirected,574,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#unflatteringdogphotochallenge",Undirected,575,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#universeboss",Undirected,576,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#scotushearings",Undirected,577,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#twittercensorship",Undirected,578,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#trumpcrimefamily",Undirected,579,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#thursdayvibes",Undirected,580,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#thursdaymorning",Undirected,581,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#thebachelorette",Undirected,582,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#themaskedsinger",Undirected,583,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#trump2020",Undirected,584,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#trump",Undirected,585,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#unflatteringdogphotochallenge",Undirected,586,,<[2020-10-15T20:33:54.161Z]>,2
+"#startrekdiscovery","#universeboss",Undirected,587,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearings","#twittercensorship",Undirected,588,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearings","#trumpcrimefamily",Undirected,589,,"<[2020-10-15T20:33:54.161Z, 2020-10-15T20:56:49.165Z]>",4
+"#scotushearings","#thursdayvibes",Undirected,590,,"<[2020-10-15T20:33:54.161Z, 2020-10-15T21:08:37.313Z]>",4
+"#scotushearings","#thursdaymorning",Undirected,591,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearings","#thebachelorette",Undirected,592,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearings","#themaskedsinger",Undirected,593,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearings","#trump2020",Undirected,594,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearings","#trump",Undirected,595,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearings","#unflatteringdogphotochallenge",Undirected,596,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearings","#universeboss",Undirected,597,,<[2020-10-15T20:33:54.161Z]>,2
+"#twittercensorship","#trumpcrimefamily",Undirected,598,,<[2020-10-15T20:33:54.161Z]>,2
+"#twittercensorship","#thursdayvibes",Undirected,599,,<[2020-10-15T20:33:54.161Z]>,2
+"#twittercensorship","#thursdaymorning",Undirected,600,,<[2020-10-15T20:33:54.161Z]>,2
+"#twittercensorship","#thebachelorette",Undirected,601,,<[2020-10-15T20:33:54.161Z]>,2
+"#twittercensorship","#themaskedsinger",Undirected,602,,<[2020-10-15T20:33:54.161Z]>,2
+"#twittercensorship","#trump2020",Undirected,603,,<[2020-10-15T20:33:54.161Z]>,2
+"#twittercensorship","#trump",Undirected,604,,<[2020-10-15T20:33:54.161Z]>,2
+"#twittercensorship","#unflatteringdogphotochallenge",Undirected,605,,<[2020-10-15T20:33:54.161Z]>,2
+"#twittercensorship","#universeboss",Undirected,606,,<[2020-10-15T20:33:54.161Z]>,2
+"#trumpcrimefamily","#thursdayvibes",Undirected,607,,<[2020-10-15T20:33:54.161Z]>,2
+"#trumpcrimefamily","#thursdaymorning",Undirected,608,,<[2020-10-15T20:33:54.161Z]>,2
+"#trumpcrimefamily","#thebachelorette",Undirected,609,,<[2020-10-15T20:33:54.161Z]>,2
+"#trumpcrimefamily","#themaskedsinger",Undirected,610,,<[2020-10-15T20:33:54.161Z]>,2
+"#trumpcrimefamily","#trump2020",Undirected,611,,<[2020-10-15T20:33:54.161Z]>,2
+"#trumpcrimefamily","#trump",Undirected,612,,<[2020-10-15T20:33:54.161Z]>,2
+"#trumpcrimefamily","#unflatteringdogphotochallenge",Undirected,613,,<[2020-10-15T20:33:54.161Z]>,2
+"#trumpcrimefamily","#universeboss",Undirected,614,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdayvibes","#thursdaymorning",Undirected,615,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdayvibes","#thebachelorette",Undirected,616,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdayvibes","#themaskedsinger",Undirected,617,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdayvibes","#trump2020",Undirected,618,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdayvibes","#trump",Undirected,619,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdayvibes","#unflatteringdogphotochallenge",Undirected,620,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdayvibes","#universeboss",Undirected,621,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdaymorning","#thebachelorette",Undirected,622,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdaymorning","#themaskedsinger",Undirected,623,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdaymorning","#trump2020",Undirected,624,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdaymorning","#trump",Undirected,625,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdaymorning","#unflatteringdogphotochallenge",Undirected,626,,<[2020-10-15T20:33:54.161Z]>,2
+"#thursdaymorning","#universeboss",Undirected,627,,<[2020-10-15T20:33:54.161Z]>,2
+"#thebachelorette","#themaskedsinger",Undirected,628,,<[2020-10-15T20:33:54.161Z]>,2
+"#thebachelorette","#trump2020",Undirected,629,,<[2020-10-15T20:33:54.161Z]>,2
+"#thebachelorette","#trump",Undirected,630,,<[2020-10-15T20:33:54.161Z]>,2
+"#thebachelorette","#unflatteringdogphotochallenge",Undirected,631,,<[2020-10-15T20:33:54.161Z]>,2
+"#thebachelorette","#universeboss",Undirected,632,,<[2020-10-15T20:33:54.161Z]>,2
+"#themaskedsinger","#trump2020",Undirected,633,,<[2020-10-15T20:33:54.161Z]>,2
+"#themaskedsinger","#trump",Undirected,634,,<[2020-10-15T20:33:54.161Z]>,2
+"#themaskedsinger","#unflatteringdogphotochallenge",Undirected,635,,<[2020-10-15T20:33:54.161Z]>,2
+"#themaskedsinger","#universeboss",Undirected,636,,<[2020-10-15T20:33:54.161Z]>,2
+"#trump2020","#trump",Undirected,637,,<[2020-10-15T20:33:54.161Z]>,2
+"#trump2020","#unflatteringdogphotochallenge",Undirected,638,,<[2020-10-15T20:33:54.161Z]>,2
+"#trump2020","#universeboss",Undirected,639,,<[2020-10-15T20:33:54.161Z]>,2
+"#trump","#unflatteringdogphotochallenge",Undirected,640,,<[2020-10-15T20:33:54.161Z]>,2
+"#trump","#universeboss",Undirected,641,,<[2020-10-15T20:33:54.161Z]>,2
+"#unflatteringdogphotochallenge","#universeboss",Undirected,642,,<[2020-10-15T20:33:54.161Z]>,2
+"#scotushearing","#rbgrevolution",Undirected,643,,"<[2020-10-15T20:34:03.534Z, 2020-10-15T20:36:06.941Z, 2020-10-15T20:42:26.453Z, 2020-10-15T20:44:20.327Z, 2020-10-15T20:46:08.454Z, 2020-10-15T20:46:13.503Z, 2020-10-15T20:49:07.210Z, 2020-10-15T20:53:30.397Z]>",16
+"#scotushearing","#amyconeybarrettscotus",Undirected,644,,"<[2020-10-15T20:34:03.534Z, 2020-10-15T20:36:06.941Z, 2020-10-15T20:38:12.935Z, 2020-10-15T20:42:26.453Z, 2020-10-15T20:44:20.327Z, 2020-10-15T20:46:08.454Z, 2020-10-15T20:46:13.503Z, 2020-10-15T20:49:07.210Z, 2020-10-15T20:53:30.397Z]>",18
+"#rbgrevolution","#amyconeybarrettscotus",Undirected,645,,"<[2020-10-15T20:34:03.534Z, 2020-10-15T20:36:06.941Z, 2020-10-15T20:42:26.453Z, 2020-10-15T20:44:20.327Z, 2020-10-15T20:46:08.454Z, 2020-10-15T20:46:13.503Z, 2020-10-15T20:49:07.210Z, 2020-10-15T20:53:30.397Z]>",16
+"#fripptopia","#trump2020",Undirected,646,,<[2020-10-15T20:34:10.989Z]>,2
+"#fripptopia","#election2020",Undirected,647,,<[2020-10-15T20:34:10.989Z]>,2
+"#trump2020","#election2020",Undirected,648,,<[2020-10-15T20:34:10.989Z]>,2
+"#trumpcourt","#handmaidamy",Undirected,649,,<[2020-10-15T20:34:12.832Z]>,2
+"#trumpcourt","#gorevbush",Undirected,650,,<[2020-10-15T20:34:12.832Z]>,2
+"#handmaidamy","#gorevbush",Undirected,651,,<[2020-10-15T20:34:12.832Z]>,2
+"#thursdaythoughts","#msm",Undirected,652,,<[2020-10-15T20:34:37.293Z]>,2
+"#thursdaythoughts","#slowjoe",Undirected,653,,<[2020-10-15T20:34:37.293Z]>,2
+"#thursdaythoughts","#abcnews",Undirected,654,,<[2020-10-15T20:34:37.293Z]>,2
+"#thursdaythoughts","#nbc",Undirected,655,,<[2020-10-15T20:34:37.293Z]>,2
+"#thursdaythoughts","#trump2020",Undirected,656,,<[2020-10-15T20:34:37.293Z]>,2
+"#thursdaythoughts","#1a",Undirected,657,,<[2020-10-15T20:34:37.293Z]>,2
+"#thursdaythoughts","#2a",Undirected,658,,<[2020-10-15T20:34:37.293Z]>,2
+"#thursdaythoughts","#fourmoreyears",Undirected,659,,<[2020-10-15T20:34:37.293Z]>,2
+"#msm","#slowjoe",Undirected,660,,<[2020-10-15T20:34:37.293Z]>,2
+"#msm","#abcnews",Undirected,661,,<[2020-10-15T20:34:37.293Z]>,2
+"#msm","#nbc",Undirected,662,,<[2020-10-15T20:34:37.293Z]>,2
+"#msm","#trump2020",Undirected,663,,<[2020-10-15T20:34:37.293Z]>,2
+"#msm","#1a",Undirected,664,,<[2020-10-15T20:34:37.293Z]>,2
+"#msm","#2a",Undirected,665,,<[2020-10-15T20:34:37.293Z]>,2
+"#msm","#fourmoreyears",Undirected,666,,<[2020-10-15T20:34:37.293Z]>,2
+"#slowjoe","#abcnews",Undirected,667,,<[2020-10-15T20:34:37.293Z]>,2
+"#slowjoe","#nbc",Undirected,668,,<[2020-10-15T20:34:37.293Z]>,2
+"#slowjoe","#trump2020",Undirected,669,,<[2020-10-15T20:34:37.293Z]>,2
+"#slowjoe","#1a",Undirected,670,,<[2020-10-15T20:34:37.293Z]>,2
+"#slowjoe","#2a",Undirected,671,,<[2020-10-15T20:34:37.293Z]>,2
+"#slowjoe","#fourmoreyears",Undirected,672,,<[2020-10-15T20:34:37.293Z]>,2
+"#abcnews","#nbc",Undirected,673,,<[2020-10-15T20:34:37.293Z]>,2
+"#abcnews","#trump2020",Undirected,674,,<[2020-10-15T20:34:37.293Z]>,2
+"#abcnews","#1a",Undirected,675,,<[2020-10-15T20:34:37.293Z]>,2
+"#abcnews","#2a",Undirected,676,,<[2020-10-15T20:34:37.293Z]>,2
+"#abcnews","#fourmoreyears",Undirected,677,,<[2020-10-15T20:34:37.293Z]>,2
+"#nbc","#trump2020",Undirected,678,,<[2020-10-15T20:34:37.293Z]>,2
+"#nbc","#1a",Undirected,679,,<[2020-10-15T20:34:37.293Z]>,2
+"#nbc","#2a",Undirected,680,,<[2020-10-15T20:34:37.293Z]>,2
+"#nbc","#fourmoreyears",Undirected,681,,<[2020-10-15T20:34:37.293Z]>,2
+"#trump2020","#1a",Undirected,682,,<[2020-10-15T20:34:37.293Z]>,2
+"#trump2020","#2a",Undirected,683,,<[2020-10-15T20:34:37.293Z]>,2
+"#trump2020","#fourmoreyears",Undirected,684,,"<[2020-10-15T20:34:37.293Z, 2020-10-15T21:05:09.466Z]>",4
+"#1a","#2a",Undirected,685,,<[2020-10-15T20:34:37.293Z]>,2
+"#1a","#fourmoreyears",Undirected,686,,<[2020-10-15T20:34:37.293Z]>,2
+"#2a","#fourmoreyears",Undirected,687,,<[2020-10-15T20:34:37.293Z]>,2
+"#topcop","#deepstate",Undirected,688,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#topcop","#cabal",Undirected,689,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#topcop","#childtrafficking",Undirected,690,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#topcop","#luciferians",Undirected,691,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#deepstate","#cabal",Undirected,692,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#deepstate","#childtrafficking",Undirected,693,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#deepstate","#luciferians",Undirected,694,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#cabal","#childtrafficking",Undirected,695,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#cabal","#luciferians",Undirected,696,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#childtrafficking","#luciferians",Undirected,697,,"<[2020-10-15T20:34:53.954Z, 2020-10-15T20:39:44.718Z]>",4
+"#filltheseat","#acbforscotus",Undirected,698,,<[2020-10-15T20:35:27.178Z]>,2
+"#filltheseat","#crymorelibs",Undirected,699,,<[2020-10-15T20:35:27.178Z]>,2
+"#acbforscotus","#crymorelibs",Undirected,700,,<[2020-10-15T20:35:27.178Z]>,2
+"#preference","#acb",Undirected,701,,<[2020-10-15T20:35:36.197Z]>,2
+"#justice","#future",Undirected,702,,<[2020-10-15T20:36:13.910Z]>,2
+"#rbg","#notoriousrbg",Undirected,703,,<[2020-10-15T20:36:17.520Z]>,2
+"#rbg","#whentherearenine",Undirected,704,,<[2020-10-15T20:36:17.520Z]>,2
+"#rbg","#bidenharris2020",Undirected,705,,<[2020-10-15T20:36:17.520Z]>,2
+"#rbg","#ruthbaderginsburg",Undirected,706,,<[2020-10-15T20:36:17.520Z]>,2
+"#notoriousrbg","#whentherearenine",Undirected,707,,<[2020-10-15T20:36:17.520Z]>,2
+"#notoriousrbg","#bidenharris2020",Undirected,708,,<[2020-10-15T20:36:17.520Z]>,2
+"#notoriousrbg","#ruthbaderginsburg",Undirected,709,,<[2020-10-15T20:36:17.520Z]>,2
+"#whentherearenine","#bidenharris2020",Undirected,710,,<[2020-10-15T20:36:17.520Z]>,2
+"#whentherearenine","#ruthbaderginsburg",Undirected,711,,<[2020-10-15T20:36:17.520Z]>,2
+"#bidenharris2020","#ruthbaderginsburg",Undirected,712,,<[2020-10-15T20:36:17.520Z]>,2
+"#bidensamerica","#bidenharris2020",Undirected,713,,<[2020-10-15T20:36:27.137Z]>,2
+"#bensasse","#trump",Undirected,714,,"<[2020-10-15T20:36:54.563Z, 2020-10-15T20:52:21.101Z]>",4
+"#bensasse","#amyconeybarrett",Undirected,715,,<[2020-10-15T20:36:54.563Z]>,2
+"#bensasse","#votebidenharris2020",Undirected,716,,<[2020-10-15T20:36:54.563Z]>,2
+"#trump","#amyconeybarrett",Undirected,717,,"<[2020-10-15T20:36:54.563Z, 2020-10-15T20:42:21.411Z, 2020-10-15T20:44:55.686Z]>",6
+"#trump","#votebidenharris2020",Undirected,718,,<[2020-10-15T20:36:54.563Z]>,2
+"#amyconeybarrett","#votebidenharris2020",Undirected,719,,<[2020-10-15T20:36:54.563Z]>,2
+"#amyconeybarrett","#merit",Undirected,720,,<[2020-10-15T20:36:57.777Z]>,2
+"#amyconeybarrett","#grace",Undirected,721,,<[2020-10-15T20:36:57.777Z]>,2
+"#merit","#grace",Undirected,722,,<[2020-10-15T20:36:57.777Z]>,2
+"#msm","#courtpacking",Undirected,723,,<[2020-10-15T20:37:08.214Z]>,2
+"#msm","#packingthecourt",Undirected,724,,<[2020-10-15T20:37:08.214Z]>,2
+"#msm","#packthecourt",Undirected,725,,<[2020-10-15T20:37:08.214Z]>,2
+"#msm","#acb",Undirected,726,,<[2020-10-15T20:37:08.214Z]>,2
+"#courtpacking","#packingthecourt",Undirected,727,,<[2020-10-15T20:37:08.214Z]>,2
+"#courtpacking","#packthecourt",Undirected,728,,<[2020-10-15T20:37:08.214Z]>,2
+"#courtpacking","#acb",Undirected,729,,<[2020-10-15T20:37:08.214Z]>,2
+"#packingthecourt","#packthecourt",Undirected,730,,<[2020-10-15T20:37:08.214Z]>,2
+"#packingthecourt","#acb",Undirected,731,,<[2020-10-15T20:37:08.214Z]>,2
+"#packthecourt","#acb",Undirected,732,,<[2020-10-15T20:37:08.214Z]>,2
+"#votebluedownballot","#votethemallout",Undirected,733,,<[2020-10-15T20:37:21.538Z]>,2
+"#moscowmitch","#votethoserepublicancowardsout",Undirected,734,,"<[2020-10-15T20:37:44.309Z, 2020-10-15T20:41:03.058Z]>",4
+"#moscowmitch","#votebidenharris2020",Undirected,735,,"<[2020-10-15T20:37:44.309Z, 2020-10-15T20:42:15.928Z]>",4
+"#votethoserepublicancowardsout","#votebidenharris2020",Undirected,736,,<[2020-10-15T20:37:44.309Z]>,2
+"#trumpcrimefamily","#trumpisalaughingstock",Undirected,737,,"<[2020-10-15T20:38:02.471Z, 2020-10-15T21:16:39.144Z]>",4
+"#trumpcrimefamily","#teumpsgottago",Undirected,738,,<[2020-10-15T20:38:02.471Z]>,2
+"#trumpisalaughingstock","#teumpsgottago",Undirected,739,,<[2020-10-15T20:38:02.471Z]>,2
+"#amyconeybarrettisunfit","#amyconeybarrett",Undirected,740,,<[2020-10-15T20:38:12.935Z]>,2
+"#amyconeybarrettisunfit","#amyconeybarrettscotus",Undirected,741,,<[2020-10-15T20:38:12.935Z]>,2
+"#amyconeybarrettisunfit","#scotushearing",Undirected,742,,<[2020-10-15T20:38:12.935Z]>,2
+"#amyconeybarrett","#amyconeybarrettscotus",Undirected,743,,"<[2020-10-15T20:38:12.935Z, 2020-10-15T21:08:41.545Z]>",4
+"#amyconeybarrett","#scotushearing",Undirected,744,,"<[2020-10-15T20:38:12.935Z, 2020-10-15T21:00:41.291Z, 2020-10-15T21:01:35.871Z, 2020-10-15T21:07:10.823Z, 2020-10-15T21:17:39.780Z]>",10
+"#traitor","#countryoverparty",Undirected,745,,<[2020-10-15T20:38:23.565Z]>,2
+"#votebidenharris","#donthecon",Undirected,746,,<[2020-10-15T20:39:03.971Z]>,2
+"#votebidenharris","#trumpfraud",Undirected,747,,<[2020-10-15T20:39:03.971Z]>,2
+"#votebidenharris","#trumpfailed",Undirected,748,,<[2020-10-15T20:39:03.971Z]>,2
+"#votebidenharris","#racisttrump",Undirected,749,,<[2020-10-15T20:39:03.971Z]>,2
+"#votebidenharris","#trumpcoupplot",Undirected,750,,<[2020-10-15T20:39:03.971Z]>,2
+"#votebidenharris","#dictatortrump",Undirected,751,,<[2020-10-15T20:39:03.971Z]>,2
+"#votebidenharris","#trumpisanationaldisgrace",Undirected,752,,<[2020-10-15T20:39:03.971Z]>,2
+"#votebidenharris","#stopthemadnessstoptrump",Undirected,753,,<[2020-10-15T20:39:03.971Z]>,2
+"#donthecon","#trumpfraud",Undirected,754,,<[2020-10-15T20:39:03.971Z]>,2
+"#donthecon","#trumpfailed",Undirected,755,,<[2020-10-15T20:39:03.971Z]>,2
+"#donthecon","#racisttrump",Undirected,756,,<[2020-10-15T20:39:03.971Z]>,2
+"#donthecon","#trumpcoupplot",Undirected,757,,<[2020-10-15T20:39:03.971Z]>,2
+"#donthecon","#dictatortrump",Undirected,758,,<[2020-10-15T20:39:03.971Z]>,2
+"#donthecon","#trumpisanationaldisgrace",Undirected,759,,<[2020-10-15T20:39:03.971Z]>,2
+"#donthecon","#stopthemadnessstoptrump",Undirected,760,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfraud","#trumpfailed",Undirected,761,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfraud","#racisttrump",Undirected,762,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfraud","#trumpcoupplot",Undirected,763,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfraud","#dictatortrump",Undirected,764,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfraud","#trumpisanationaldisgrace",Undirected,765,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfraud","#stopthemadnessstoptrump",Undirected,766,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfailed","#racisttrump",Undirected,767,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfailed","#trumpcoupplot",Undirected,768,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfailed","#dictatortrump",Undirected,769,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfailed","#trumpisanationaldisgrace",Undirected,770,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpfailed","#stopthemadnessstoptrump",Undirected,771,,<[2020-10-15T20:39:03.971Z]>,2
+"#racisttrump","#trumpcoupplot",Undirected,772,,<[2020-10-15T20:39:03.971Z]>,2
+"#racisttrump","#dictatortrump",Undirected,773,,<[2020-10-15T20:39:03.971Z]>,2
+"#racisttrump","#trumpisanationaldisgrace",Undirected,774,,<[2020-10-15T20:39:03.971Z]>,2
+"#racisttrump","#stopthemadnessstoptrump",Undirected,775,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpcoupplot","#dictatortrump",Undirected,776,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpcoupplot","#trumpisanationaldisgrace",Undirected,777,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpcoupplot","#stopthemadnessstoptrump",Undirected,778,,<[2020-10-15T20:39:03.971Z]>,2
+"#dictatortrump","#trumpisanationaldisgrace",Undirected,779,,<[2020-10-15T20:39:03.971Z]>,2
+"#dictatortrump","#stopthemadnessstoptrump",Undirected,780,,<[2020-10-15T20:39:03.971Z]>,2
+"#trumpisanationaldisgrace","#stopthemadnessstoptrump",Undirected,781,,<[2020-10-15T20:39:03.971Z]>,2
+"#scotushearing","#amycoathangerbarrett",Undirected,782,,<[2020-10-15T20:39:20.544Z]>,2
+"#scotushearing","#blockbarrett",Undirected,783,,<[2020-10-15T20:39:20.544Z]>,2
+"#amycoathangerbarrett","#blockbarrett",Undirected,784,,<[2020-10-15T20:39:20.544Z]>,2
+"#trump2020","#vote2020",Undirected,785,,<[2020-10-15T20:39:20.898Z]>,2
+"#bidenharris2020","#bidentownhall",Undirected,786,,<[2020-10-15T20:39:49.776Z]>,2
+"#bidenharris2020","#boycottnbc",Undirected,787,,<[2020-10-15T20:39:49.776Z]>,2
+"#bidenharris2020","#boycottmsnbc",Undirected,788,,<[2020-10-15T20:39:49.776Z]>,2
+"#bidentownhall","#boycottnbc",Undirected,789,,<[2020-10-15T20:39:49.776Z]>,2
+"#bidentownhall","#boycottmsnbc",Undirected,790,,<[2020-10-15T20:39:49.776Z]>,2
+"#boycottnbc","#boycottmsnbc",Undirected,791,,<[2020-10-15T20:39:49.776Z]>,2
+"#uscensus","#becounted",Undirected,792,,"<[2020-10-15T20:39:55.969Z, 2020-10-15T21:07:03.551Z]>",4
+"#diannefeinstein","#lindseygraham",Undirected,793,,<[2020-10-15T20:39:59.734Z]>,2
+"#diannefeinstein","#feinsteinresign",Undirected,794,,<[2020-10-15T20:39:59.734Z]>,2
+"#lindseygraham","#feinsteinresign",Undirected,795,,<[2020-10-15T20:39:59.734Z]>,2
+"#hypocrisy","#clarencethomas",Undirected,796,,<[2020-10-15T20:40:11.508Z]>,2
+"#amyconeybarrett","#disqualified",Undirected,797,,<[2020-10-15T20:40:12.554Z]>,2
+"#amyconeybarrett","#lockherup",Undirected,798,,<[2020-10-15T20:40:12.554Z]>,2
+"#disqualified","#lockherup",Undirected,799,,<[2020-10-15T20:40:12.554Z]>,2
+"#foxandfriends","#kag",Undirected,800,,"<[2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",32
+"#foxandfriends","#maga2020",Undirected,801,,"<[2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",30
+"#morningjoe","#kag",Undirected,802,,"<[2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",32
+"#morningjoe","#maga2020",Undirected,803,,"<[2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",30
+"#wednesdaythoughts","#kag",Undirected,804,,<[2020-10-15T20:40:50.078Z]>,2
+"#wednesdaythoughts","#maga2020",Undirected,805,,<[2020-10-15T20:40:50.078Z]>,2
+"#scotushearings","#kag",Undirected,806,,"<[2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",32
+"#scotushearings","#maga2020",Undirected,807,,"<[2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",30
+"#ccot","#kag",Undirected,808,,"<[2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:36.057Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",32
+"#ccot","#maga2020",Undirected,809,,"<[2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",30
+"#kag","#maga2020",Undirected,810,,"<[2020-10-15T20:40:50.078Z, 2020-10-15T20:44:33.493Z, 2020-10-15T20:47:19.774Z, 2020-10-15T20:47:32.253Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:48:36.957Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:49:59.846Z, 2020-10-15T20:50:02.295Z, 2020-10-15T20:50:27.053Z, 2020-10-15T20:52:06.400Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T20:56:19.340Z, 2020-10-15T21:01:13.650Z]>",30
+"#leningradlindsey","#amyconeybarrett",Undirected,811,,"<[2020-10-15T20:40:59.845Z, 2020-10-15T20:50:43.975Z, 2020-10-15T21:11:43.517Z, 2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",10
+"#amyconeybarrett","#gop",Undirected,812,,"<[2020-10-15T20:41:12.508Z, 2020-10-15T20:57:28.456Z]>",4
+"#amyconeybarrett","#darkmoney",Undirected,813,,<[2020-10-15T20:41:12.508Z]>,2
+"#gop","#darkmoney",Undirected,814,,<[2020-10-15T20:41:12.508Z]>,2
+"#kavanaugh","#impeachkavanaugh",Undirected,815,,<[2020-10-15T20:41:18.594Z]>,2
+"#kavanaugh","#impeachbarret",Undirected,816,,<[2020-10-15T20:41:18.594Z]>,2
+"#kavanaugh","#bidenharris",Undirected,817,,<[2020-10-15T20:41:18.594Z]>,2
+"#impeachkavanaugh","#impeachbarret",Undirected,818,,<[2020-10-15T20:41:18.594Z]>,2
+"#impeachkavanaugh","#bidenharris",Undirected,819,,<[2020-10-15T20:41:18.594Z]>,2
+"#impeachbarret","#bidenharris",Undirected,820,,<[2020-10-15T20:41:18.594Z]>,2
+"#crookedjoebiden","#trump2020",Undirected,821,,<[2020-10-15T20:41:26.432Z]>,2
+"#gretathunberg","#barretthearings",Undirected,822,,<[2020-10-15T20:41:33.854Z]>,2
+"#amyconeybarrett","#vote",Undirected,823,,"<[2020-10-15T20:41:37.871Z, 2020-10-15T21:08:14.518Z]>",4
+"#amyconeybarrett","#election",Undirected,824,,<[2020-10-15T20:41:37.871Z]>,2
+"#vote","#election",Undirected,825,,<[2020-10-15T20:41:37.871Z]>,2
+"#obama","#elections2020",Undirected,826,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#brainwashing",Undirected,827,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#democrats",Undirected,828,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#billgates",Undirected,829,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#vaccines",Undirected,830,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#biden2020",Undirected,831,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#cnn",Undirected,832,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#pbs",Undirected,833,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#npr",Undirected,834,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#bbc",Undirected,835,,<[2020-10-15T20:41:44.372Z]>,2
+"#obama","#reuters",Undirected,836,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#brainwashing",Undirected,837,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#democrats",Undirected,838,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#billgates",Undirected,839,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#vaccines",Undirected,840,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#biden2020",Undirected,841,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#cnn",Undirected,842,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#pbs",Undirected,843,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#npr",Undirected,844,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#bbc",Undirected,845,,<[2020-10-15T20:41:44.372Z]>,2
+"#elections2020","#reuters",Undirected,846,,<[2020-10-15T20:41:44.372Z]>,2
+"#brainwashing","#democrats",Undirected,847,,<[2020-10-15T20:41:44.372Z]>,2
+"#brainwashing","#billgates",Undirected,848,,<[2020-10-15T20:41:44.372Z]>,2
+"#brainwashing","#vaccines",Undirected,849,,<[2020-10-15T20:41:44.372Z]>,2
+"#brainwashing","#biden2020",Undirected,850,,<[2020-10-15T20:41:44.372Z]>,2
+"#brainwashing","#cnn",Undirected,851,,<[2020-10-15T20:41:44.372Z]>,2
+"#brainwashing","#pbs",Undirected,852,,<[2020-10-15T20:41:44.372Z]>,2
+"#brainwashing","#npr",Undirected,853,,<[2020-10-15T20:41:44.372Z]>,2
+"#brainwashing","#bbc",Undirected,854,,<[2020-10-15T20:41:44.372Z]>,2
+"#brainwashing","#reuters",Undirected,855,,<[2020-10-15T20:41:44.372Z]>,2
+"#democrats","#billgates",Undirected,856,,<[2020-10-15T20:41:44.372Z]>,2
+"#democrats","#vaccines",Undirected,857,,<[2020-10-15T20:41:44.372Z]>,2
+"#democrats","#biden2020",Undirected,858,,<[2020-10-15T20:41:44.372Z]>,2
+"#democrats","#cnn",Undirected,859,,<[2020-10-15T20:41:44.372Z]>,2
+"#democrats","#pbs",Undirected,860,,<[2020-10-15T20:41:44.372Z]>,2
+"#democrats","#npr",Undirected,861,,<[2020-10-15T20:41:44.372Z]>,2
+"#democrats","#bbc",Undirected,862,,<[2020-10-15T20:41:44.372Z]>,2
+"#democrats","#reuters",Undirected,863,,<[2020-10-15T20:41:44.372Z]>,2
+"#billgates","#vaccines",Undirected,864,,<[2020-10-15T20:41:44.372Z]>,2
+"#billgates","#biden2020",Undirected,865,,<[2020-10-15T20:41:44.372Z]>,2
+"#billgates","#cnn",Undirected,866,,<[2020-10-15T20:41:44.372Z]>,2
+"#billgates","#pbs",Undirected,867,,<[2020-10-15T20:41:44.372Z]>,2
+"#billgates","#npr",Undirected,868,,<[2020-10-15T20:41:44.372Z]>,2
+"#billgates","#bbc",Undirected,869,,<[2020-10-15T20:41:44.372Z]>,2
+"#billgates","#reuters",Undirected,870,,<[2020-10-15T20:41:44.372Z]>,2
+"#vaccines","#biden2020",Undirected,871,,<[2020-10-15T20:41:44.372Z]>,2
+"#vaccines","#cnn",Undirected,872,,<[2020-10-15T20:41:44.372Z]>,2
+"#vaccines","#pbs",Undirected,873,,<[2020-10-15T20:41:44.372Z]>,2
+"#vaccines","#npr",Undirected,874,,<[2020-10-15T20:41:44.372Z]>,2
+"#vaccines","#bbc",Undirected,875,,<[2020-10-15T20:41:44.372Z]>,2
+"#vaccines","#reuters",Undirected,876,,<[2020-10-15T20:41:44.372Z]>,2
+"#biden2020","#cnn",Undirected,877,,<[2020-10-15T20:41:44.372Z]>,2
+"#biden2020","#pbs",Undirected,878,,<[2020-10-15T20:41:44.372Z]>,2
+"#biden2020","#npr",Undirected,879,,<[2020-10-15T20:41:44.372Z]>,2
+"#biden2020","#bbc",Undirected,880,,<[2020-10-15T20:41:44.372Z]>,2
+"#biden2020","#reuters",Undirected,881,,<[2020-10-15T20:41:44.372Z]>,2
+"#cnn","#pbs",Undirected,882,,<[2020-10-15T20:41:44.372Z]>,2
+"#cnn","#npr",Undirected,883,,<[2020-10-15T20:41:44.372Z]>,2
+"#cnn","#bbc",Undirected,884,,<[2020-10-15T20:41:44.372Z]>,2
+"#cnn","#reuters",Undirected,885,,<[2020-10-15T20:41:44.372Z]>,2
+"#pbs","#npr",Undirected,886,,<[2020-10-15T20:41:44.372Z]>,2
+"#pbs","#bbc",Undirected,887,,<[2020-10-15T20:41:44.372Z]>,2
+"#pbs","#reuters",Undirected,888,,<[2020-10-15T20:41:44.372Z]>,2
+"#npr","#bbc",Undirected,889,,<[2020-10-15T20:41:44.372Z]>,2
+"#npr","#reuters",Undirected,890,,<[2020-10-15T20:41:44.372Z]>,2
+"#bbc","#reuters",Undirected,891,,<[2020-10-15T20:41:44.372Z]>,2
+"#wakeupamerica","#wua",Undirected,892,,<[2020-10-15T20:42:08.061Z]>,2
+"#moscowmitch","#trumpfailedamerica",Undirected,893,,<[2020-10-15T20:42:15.928Z]>,2
+"#moscowmitch","#trumpvirusdeathtoll220k",Undirected,894,,<[2020-10-15T20:42:15.928Z]>,2
+"#votebidenharris2020","#trumpfailedamerica",Undirected,895,,<[2020-10-15T20:42:15.928Z]>,2
+"#votebidenharris2020","#trumpvirusdeathtoll220k",Undirected,896,,<[2020-10-15T20:42:15.928Z]>,2
+"#trumpfailedamerica","#trumpvirusdeathtoll220k",Undirected,897,,<[2020-10-15T20:42:15.928Z]>,2
+"#amyconeybarrett","#maga2020",Undirected,898,,"<[2020-10-15T20:42:21.411Z, 2020-10-15T20:44:55.686Z]>",4
+"#maga2020","#trump",Undirected,899,,"<[2020-10-15T20:42:21.411Z, 2020-10-15T20:44:55.686Z]>",4
+"#imwithher","#confirmacb",Undirected,900,,"<[2020-10-15T20:42:30.031Z, 2020-10-15T20:42:39.333Z, 2020-10-15T20:43:05.423Z, 2020-10-15T20:46:30.279Z, 2020-10-15T20:50:35.190Z]>",10
+"#sick","#traitors",Undirected,901,,<[2020-10-15T20:42:30.770Z]>,2
+"#supremecourt","#awesomepoll",Undirected,902,,"<[2020-10-15T20:42:47.964Z, 2020-10-15T20:45:26.687Z]>",4
+"#californiavtexas","#aca",Undirected,903,,<[2020-10-15T20:43:01.395Z]>,2
+"#imwithher","#amyconeybarrett",Undirected,904,,<[2020-10-15T20:43:05.423Z]>,2
+"#amyconeybarrett","#brettkavanaugh",Undirected,905,,<[2020-10-15T20:43:19.225Z]>,2
+"#amyconeybarrett","#injusticeleage",Undirected,906,,<[2020-10-15T20:43:19.225Z]>,2
+"#amyconeybarrett","#howcanthisbehappening",Undirected,907,,<[2020-10-15T20:43:19.225Z]>,2
+"#brettkavanaugh","#injusticeleage",Undirected,908,,<[2020-10-15T20:43:19.225Z]>,2
+"#brettkavanaugh","#howcanthisbehappening",Undirected,909,,<[2020-10-15T20:43:19.225Z]>,2
+"#brettkavanaugh","#usa",Undirected,910,,<[2020-10-15T20:43:19.225Z]>,2
+"#injusticeleage","#howcanthisbehappening",Undirected,911,,<[2020-10-15T20:43:19.225Z]>,2
+"#injusticeleage","#usa",Undirected,912,,<[2020-10-15T20:43:19.225Z]>,2
+"#howcanthisbehappening","#usa",Undirected,913,,<[2020-10-15T20:43:19.225Z]>,2
+"#bidenguiltyofsedition","#chinajoebiden",Undirected,914,,<[2020-10-15T20:43:30.631Z]>,2
+"#bidenguiltyofsedition","#bidencrimefamily",Undirected,915,,<[2020-10-15T20:43:30.631Z]>,2
+"#chinajoebiden","#bidencrimefamily",Undirected,916,,<[2020-10-15T20:43:30.631Z]>,2
+"#pathetic","#biglie",Undirected,917,,<[2020-10-15T20:43:49.367Z]>,2
+"#pathetic","#sociopath",Undirected,918,,<[2020-10-15T20:43:49.367Z]>,2
+"#biglie","#sociopath",Undirected,919,,<[2020-10-15T20:43:49.367Z]>,2
+"#foxandfriends","#hannity",Undirected,920,,"<[2020-10-15T20:44:33.493Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T21:01:13.650Z]>",12
+"#morningjoe","#hannity",Undirected,921,,"<[2020-10-15T20:44:33.493Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T21:01:13.650Z]>",12
+"#hannity","#scotushearings",Undirected,922,,"<[2020-10-15T20:44:33.493Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T21:01:13.650Z]>",12
+"#hannity","#ccot",Undirected,923,,"<[2020-10-15T20:44:33.493Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T21:01:13.650Z]>",12
+"#hannity","#kag",Undirected,924,,"<[2020-10-15T20:44:33.493Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T21:01:13.650Z]>",12
+"#hannity","#maga2020",Undirected,925,,"<[2020-10-15T20:44:33.493Z, 2020-10-15T20:47:46.212Z, 2020-10-15T20:49:45.412Z, 2020-10-15T20:52:12.407Z, 2020-10-15T20:52:49.148Z, 2020-10-15T21:01:13.650Z]>",12
+"#votebluetoendthisnightmare","#boycotttrumptownhall",Undirected,926,,<[2020-10-15T20:45:10.119Z]>,2
+"#supremecourtconfirmation","#acb",Undirected,927,,<[2020-10-15T20:45:26.284Z]>,2
+"#az02","#azpol",Undirected,928,,<[2020-10-15T20:45:46.521Z]>,2
+"#az02","#wontbeerased",Undirected,929,,<[2020-10-15T20:45:46.521Z]>,2
+"#azpol","#wontbeerased",Undirected,930,,<[2020-10-15T20:45:46.521Z]>,2
+"#aca","#canttrustcollins",Undirected,931,,<[2020-10-15T20:45:56.385Z]>,2
+"#aca","#mesen",Undirected,932,,<[2020-10-15T20:45:56.385Z]>,2
+"#canttrustcollins","#mesen",Undirected,933,,<[2020-10-15T20:45:56.385Z]>,2
+"#truthmatters","#integritymatters",Undirected,934,,<[2020-10-15T20:46:46.629Z]>,2
+"#truthmatters","#aca",Undirected,935,,<[2020-10-15T20:46:46.629Z]>,2
+"#truthmatters","#shamhearings",Undirected,936,,<[2020-10-15T20:46:46.629Z]>,2
+"#truthmatters","#amycomeybarrett",Undirected,937,,<[2020-10-15T20:46:46.629Z]>,2
+"#integritymatters","#aca",Undirected,938,,<[2020-10-15T20:46:46.629Z]>,2
+"#integritymatters","#shamhearings",Undirected,939,,<[2020-10-15T20:46:46.629Z]>,2
+"#integritymatters","#amycomeybarrett",Undirected,940,,<[2020-10-15T20:46:46.629Z]>,2
+"#aca","#shamhearings",Undirected,941,,<[2020-10-15T20:46:46.629Z]>,2
+"#aca","#amycomeybarrett",Undirected,942,,<[2020-10-15T20:46:46.629Z]>,2
+"#shamhearings","#amycomeybarrett",Undirected,943,,<[2020-10-15T20:46:46.629Z]>,2
+"#foxandfriends","#trumprally",Undirected,944,,"<[2020-10-15T20:47:19.774Z, 2020-10-15T20:48:36.957Z]>",4
+"#morningjoe","#trumprally",Undirected,945,,"<[2020-10-15T20:47:19.774Z, 2020-10-15T20:48:36.957Z]>",4
+"#scotushearings","#trumprally",Undirected,946,,"<[2020-10-15T20:47:19.774Z, 2020-10-15T20:48:36.957Z]>",4
+"#ccot","#trumprally",Undirected,947,,"<[2020-10-15T20:47:19.774Z, 2020-10-15T20:48:36.957Z]>",4
+"#kag","#trumprally",Undirected,948,,"<[2020-10-15T20:47:19.774Z, 2020-10-15T20:48:36.957Z]>",4
+"#maga2020","#trumprally",Undirected,949,,"<[2020-10-15T20:47:19.774Z, 2020-10-15T20:48:36.957Z]>",4
+"#amyconeybarrett","#covid__19",Undirected,950,,"<[2020-10-15T20:47:39.882Z, 2020-10-15T20:49:14.086Z]>",4
+"#msm","#acbhearings",Undirected,951,,<[2020-10-15T20:47:54.086Z]>,2
+"#msm","#amyconeybarrett",Undirected,952,,<[2020-10-15T20:47:54.086Z]>,2
+"#gop","#originalists",Undirected,953,,<[2020-10-15T20:48:03.013Z]>,2
+"#gop","#racism",Undirected,954,,<[2020-10-15T20:48:03.013Z]>,2
+"#gop","#votebidenharris2020",Undirected,955,,<[2020-10-15T20:48:03.013Z]>,2
+"#gop","#genz",Undirected,956,,<[2020-10-15T20:48:03.013Z]>,2
+"#gop","#millenials",Undirected,957,,<[2020-10-15T20:48:03.013Z]>,2
+"#originalists","#racism",Undirected,958,,<[2020-10-15T20:48:03.013Z]>,2
+"#originalists","#votebidenharris2020",Undirected,959,,<[2020-10-15T20:48:03.013Z]>,2
+"#originalists","#genz",Undirected,960,,<[2020-10-15T20:48:03.013Z]>,2
+"#originalists","#millenials",Undirected,961,,<[2020-10-15T20:48:03.013Z]>,2
+"#racism","#votebidenharris2020",Undirected,962,,<[2020-10-15T20:48:03.013Z]>,2
+"#racism","#genz",Undirected,963,,<[2020-10-15T20:48:03.013Z]>,2
+"#racism","#millenials",Undirected,964,,<[2020-10-15T20:48:03.013Z]>,2
+"#votebidenharris2020","#genz",Undirected,965,,<[2020-10-15T20:48:03.013Z]>,2
+"#votebidenharris2020","#millenials",Undirected,966,,<[2020-10-15T20:48:03.013Z]>,2
+"#genz","#millenials",Undirected,967,,<[2020-10-15T20:48:03.013Z]>,2
+"#watchabc","#watchbiden",Undirected,968,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#townhall",Undirected,969,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#boycotttrumptownhall",Undirected,970,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#boycottnbctownhall",Undirected,971,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#boycottmsnbc",Undirected,972,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#covid19",Undirected,973,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#climatechange",Undirected,974,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#blm",Undirected,975,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#lgbtq",Undirected,976,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#prochoice",Undirected,977,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#affordablecareact",Undirected,978,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchabc","#taxtherich",Undirected,979,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#townhall",Undirected,980,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#boycotttrumptownhall",Undirected,981,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#boycottnbctownhall",Undirected,982,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#boycottmsnbc",Undirected,983,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#covid19",Undirected,984,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#climatechange",Undirected,985,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#blm",Undirected,986,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#lgbtq",Undirected,987,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#prochoice",Undirected,988,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#affordablecareact",Undirected,989,,<[2020-10-15T20:48:13.751Z]>,2
+"#watchbiden","#taxtherich",Undirected,990,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#boycotttrumptownhall",Undirected,991,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#boycottnbctownhall",Undirected,992,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#boycottmsnbc",Undirected,993,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#covid19",Undirected,994,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#climatechange",Undirected,995,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#blm",Undirected,996,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#lgbtq",Undirected,997,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#prochoice",Undirected,998,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#affordablecareact",Undirected,999,,<[2020-10-15T20:48:13.751Z]>,2
+"#townhall","#taxtherich",Undirected,1000,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycotttrumptownhall","#boycottnbctownhall",Undirected,1001,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycotttrumptownhall","#boycottmsnbc",Undirected,1002,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycotttrumptownhall","#covid19",Undirected,1003,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycotttrumptownhall","#climatechange",Undirected,1004,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycotttrumptownhall","#blm",Undirected,1005,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycotttrumptownhall","#lgbtq",Undirected,1006,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycotttrumptownhall","#prochoice",Undirected,1007,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycotttrumptownhall","#affordablecareact",Undirected,1008,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycotttrumptownhall","#taxtherich",Undirected,1009,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottnbctownhall","#boycottmsnbc",Undirected,1010,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottnbctownhall","#covid19",Undirected,1011,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottnbctownhall","#climatechange",Undirected,1012,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottnbctownhall","#blm",Undirected,1013,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottnbctownhall","#lgbtq",Undirected,1014,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottnbctownhall","#prochoice",Undirected,1015,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottnbctownhall","#affordablecareact",Undirected,1016,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottnbctownhall","#taxtherich",Undirected,1017,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottmsnbc","#covid19",Undirected,1018,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottmsnbc","#climatechange",Undirected,1019,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottmsnbc","#blm",Undirected,1020,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottmsnbc","#lgbtq",Undirected,1021,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottmsnbc","#prochoice",Undirected,1022,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottmsnbc","#affordablecareact",Undirected,1023,,<[2020-10-15T20:48:13.751Z]>,2
+"#boycottmsnbc","#taxtherich",Undirected,1024,,<[2020-10-15T20:48:13.751Z]>,2
+"#covid19","#climatechange",Undirected,1025,,<[2020-10-15T20:48:13.751Z]>,2
+"#covid19","#blm",Undirected,1026,,<[2020-10-15T20:48:13.751Z]>,2
+"#covid19","#lgbtq",Undirected,1027,,<[2020-10-15T20:48:13.751Z]>,2
+"#covid19","#prochoice",Undirected,1028,,<[2020-10-15T20:48:13.751Z]>,2
+"#covid19","#affordablecareact",Undirected,1029,,<[2020-10-15T20:48:13.751Z]>,2
+"#covid19","#taxtherich",Undirected,1030,,<[2020-10-15T20:48:13.751Z]>,2
+"#climatechange","#blm",Undirected,1031,,<[2020-10-15T20:48:13.751Z]>,2
+"#climatechange","#lgbtq",Undirected,1032,,<[2020-10-15T20:48:13.751Z]>,2
+"#climatechange","#prochoice",Undirected,1033,,<[2020-10-15T20:48:13.751Z]>,2
+"#climatechange","#affordablecareact",Undirected,1034,,<[2020-10-15T20:48:13.751Z]>,2
+"#climatechange","#taxtherich",Undirected,1035,,<[2020-10-15T20:48:13.751Z]>,2
+"#blm","#lgbtq",Undirected,1036,,<[2020-10-15T20:48:13.751Z]>,2
+"#blm","#prochoice",Undirected,1037,,<[2020-10-15T20:48:13.751Z]>,2
+"#blm","#affordablecareact",Undirected,1038,,<[2020-10-15T20:48:13.751Z]>,2
+"#blm","#taxtherich",Undirected,1039,,<[2020-10-15T20:48:13.751Z]>,2
+"#lgbtq","#prochoice",Undirected,1040,,<[2020-10-15T20:48:13.751Z]>,2
+"#lgbtq","#affordablecareact",Undirected,1041,,<[2020-10-15T20:48:13.751Z]>,2
+"#lgbtq","#taxtherich",Undirected,1042,,<[2020-10-15T20:48:13.751Z]>,2
+"#prochoice","#affordablecareact",Undirected,1043,,<[2020-10-15T20:48:13.751Z]>,2
+"#prochoice","#taxtherich",Undirected,1044,,<[2020-10-15T20:48:13.751Z]>,2
+"#affordablecareact","#taxtherich",Undirected,1045,,<[2020-10-15T20:48:13.751Z]>,2
+"#barrettunqualified","#barrettwithdrawnow",Undirected,1046,,"<[2020-10-15T20:48:23.938Z, 2020-10-15T20:54:58.921Z, 2020-10-15T20:55:11.043Z, 2020-10-15T20:55:27.307Z]>",8
+"#barrettunqualified","#perjury",Undirected,1047,,<[2020-10-15T20:48:23.938Z]>,2
+"#barrettunqualified","#scotushearing",Undirected,1048,,<[2020-10-15T20:48:23.938Z]>,2
+"#barrettwithdrawnow","#perjury",Undirected,1049,,<[2020-10-15T20:48:23.938Z]>,2
+"#barrettwithdrawnow","#scotushearing",Undirected,1050,,<[2020-10-15T20:48:23.938Z]>,2
+"#perjury","#scotushearing",Undirected,1051,,"<[2020-10-15T20:48:23.938Z, 2020-10-15T20:57:17.932Z]>",4
+"#judgeamyconeybarrett","#acb",Undirected,1052,,<[2020-10-15T20:48:24.376Z]>,2
+"#lindseygraham","#lockhimup",Undirected,1053,,<[2020-10-15T20:48:52.950Z]>,2
+"#lindseygraham","#lindseymustgo",Undirected,1054,,"<[2020-10-15T20:48:52.950Z, 2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",6
+"#lindseygraham","#amyconeybarrett",Undirected,1055,,"<[2020-10-15T20:48:52.950Z, 2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",6
+"#lindseygraham","#gophypocrisy",Undirected,1056,,<[2020-10-15T20:48:52.950Z]>,2
+"#lindseygraham","#votehimout",Undirected,1057,,<[2020-10-15T20:48:52.950Z]>,2
+"#lindseygraham","#jamieharrison",Undirected,1058,,<[2020-10-15T20:48:52.950Z]>,2
+"#lockhimup","#lindseymustgo",Undirected,1059,,<[2020-10-15T20:48:52.950Z]>,2
+"#lockhimup","#amyconeybarrett",Undirected,1060,,<[2020-10-15T20:48:52.950Z]>,2
+"#lockhimup","#gophypocrisy",Undirected,1061,,<[2020-10-15T20:48:52.950Z]>,2
+"#lockhimup","#votehimout",Undirected,1062,,<[2020-10-15T20:48:52.950Z]>,2
+"#lockhimup","#jamieharrison",Undirected,1063,,<[2020-10-15T20:48:52.950Z]>,2
+"#lindseymustgo","#amyconeybarrett",Undirected,1064,,"<[2020-10-15T20:48:52.950Z, 2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",6
+"#lindseymustgo","#gophypocrisy",Undirected,1065,,<[2020-10-15T20:48:52.950Z]>,2
+"#lindseymustgo","#votehimout",Undirected,1066,,<[2020-10-15T20:48:52.950Z]>,2
+"#lindseymustgo","#jamieharrison",Undirected,1067,,<[2020-10-15T20:48:52.950Z]>,2
+"#amyconeybarrett","#gophypocrisy",Undirected,1068,,<[2020-10-15T20:48:52.950Z]>,2
+"#amyconeybarrett","#votehimout",Undirected,1069,,<[2020-10-15T20:48:52.950Z]>,2
+"#amyconeybarrett","#jamieharrison",Undirected,1070,,<[2020-10-15T20:48:52.950Z]>,2
+"#gophypocrisy","#votehimout",Undirected,1071,,<[2020-10-15T20:48:52.950Z]>,2
+"#gophypocrisy","#jamieharrison",Undirected,1072,,<[2020-10-15T20:48:52.950Z]>,2
+"#votehimout","#jamieharrison",Undirected,1073,,<[2020-10-15T20:48:52.950Z]>,2
+"#trump2020","#trumptruth",Undirected,1074,,<[2020-10-15T20:49:08.594Z]>,2
+"#sanctionturkey","#sanctionazerbaijan",Undirected,1075,,"<[2020-10-15T20:50:04.729Z, 2020-10-15T21:08:41.305Z]>",4
+"#laurawolk","#america",Undirected,1076,,"<[2020-10-15T20:50:21.251Z, 2020-10-15T20:50:41.442Z]>",4
+"#laurawolk","#judgebarrett",Undirected,1077,,<[2020-10-15T20:50:21.251Z]>,2
+"#laurawolk","#confirmacb",Undirected,1078,,<[2020-10-15T20:50:21.251Z]>,2
+"#america","#judgebarrett",Undirected,1079,,<[2020-10-15T20:50:21.251Z]>,2
+"#america","#confirmacb",Undirected,1080,,<[2020-10-15T20:50:21.251Z]>,2
+"#votebidenharris2020","#vote",Undirected,1081,,<[2020-10-15T20:50:32.438Z]>,2
+"#votebidenharris2020","#votegopout",Undirected,1082,,<[2020-10-15T20:50:32.438Z]>,2
+"#vote","#votegopout",Undirected,1083,,<[2020-10-15T20:50:32.438Z]>,2
+"#democrat","#triggering",Undirected,1084,,<[2020-10-15T20:50:45.581Z]>,2
+"#dems4usa","#flipthesenateblue",Undirected,1085,,<[2020-10-15T20:50:47.984Z]>,2
+"#gopcorruptionovercountry","#russianrepublicanparty",Undirected,1086,,<[2020-10-15T20:51:05.993Z]>,2
+"#gopcorruptionovercountry","#gopcomplicittraitors",Undirected,1087,,<[2020-10-15T20:51:05.993Z]>,2
+"#gopcorruptionovercountry","#gopcrimesyndicate",Undirected,1088,,<[2020-10-15T20:51:05.993Z]>,2
+"#gopcorruptionovercountry","#votebluetosaveamerica2020",Undirected,1089,,<[2020-10-15T20:51:05.993Z]>,2
+"#russianrepublicanparty","#gopcomplicittraitors",Undirected,1090,,<[2020-10-15T20:51:05.993Z]>,2
+"#russianrepublicanparty","#gopcrimesyndicate",Undirected,1091,,<[2020-10-15T20:51:05.993Z]>,2
+"#russianrepublicanparty","#votebluetosaveamerica2020",Undirected,1092,,<[2020-10-15T20:51:05.993Z]>,2
+"#gopcomplicittraitors","#gopcrimesyndicate",Undirected,1093,,<[2020-10-15T20:51:05.993Z]>,2
+"#gopcomplicittraitors","#votebluetosaveamerica2020",Undirected,1094,,<[2020-10-15T20:51:05.993Z]>,2
+"#gopcrimesyndicate","#votebluetosaveamerica2020",Undirected,1095,,<[2020-10-15T20:51:05.993Z]>,2
+"#climatechange","#climateaction",Undirected,1096,,<[2020-10-15T20:51:35.901Z]>,2
+"#acb","#filltheseat",Undirected,1097,,<[2020-10-15T20:51:38.247Z]>,2
+"#acb","#barrettconfirmationhearing",Undirected,1098,,<[2020-10-15T20:51:38.247Z]>,2
+"#filltheseat","#barrettconfirmationhearing",Undirected,1099,,<[2020-10-15T20:51:38.247Z]>,2
+"#election2020","#votethemallout",Undirected,1100,,<[2020-10-15T20:52:06.262Z]>,2
+"#election2020","#votebidenharris2020",Undirected,1101,,<[2020-10-15T20:52:06.262Z]>,2
+"#votethemallout","#votebidenharris2020",Undirected,1102,,<[2020-10-15T20:52:06.262Z]>,2
+"#walkaway","#trump2020tosaveamerica",Undirected,1103,,<[2020-10-15T20:52:07.535Z]>,2
+"#amyconeybarrett","#gender",Undirected,1104,,"<[2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z]>",4
+"#amyconeybarrett","#lgbt",Undirected,1105,,"<[2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z]>",4
+"#amyconeybarrett","#democrats",Undirected,1106,,"<[2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z]>",4
+"#gender","#lgbt",Undirected,1107,,"<[2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z]>",4
+"#gender","#democrats",Undirected,1108,,"<[2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z]>",4
+"#gender","#confirmacb",Undirected,1109,,"<[2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z]>",4
+"#lgbt","#democrats",Undirected,1110,,"<[2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z]>",4
+"#lgbt","#confirmacb",Undirected,1111,,"<[2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z]>",4
+"#democrats","#confirmacb",Undirected,1112,,"<[2020-10-15T20:52:17.259Z, 2020-10-15T20:53:03.587Z]>",4
+"#bensasse","#acb",Undirected,1113,,<[2020-10-15T20:52:21.101Z]>,2
+"#bensasse","#jeffflake",Undirected,1114,,<[2020-10-15T20:52:21.101Z]>,2
+"#trump","#acb",Undirected,1115,,<[2020-10-15T20:52:21.101Z]>,2
+"#trump","#jeffflake",Undirected,1116,,<[2020-10-15T20:52:21.101Z]>,2
+"#acb","#jeffflake",Undirected,1117,,<[2020-10-15T20:52:21.101Z]>,2
+"#she87","#votethemallout",Undirected,1118,,<[2020-10-15T20:52:41.153Z]>,2
+"#she87","#wewantfreshblood",Undirected,1119,,<[2020-10-15T20:52:41.153Z]>,2
+"#votethemallout","#wewantfreshblood",Undirected,1120,,<[2020-10-15T20:52:41.153Z]>,2
+"#republicans","#biden",Undirected,1121,,<[2020-10-15T20:52:58.819Z]>,2
+"#republicans","#clintons",Undirected,1122,,<[2020-10-15T20:52:58.819Z]>,2
+"#republicans","#obama",Undirected,1123,,<[2020-10-15T20:52:58.819Z]>,2
+"#biden","#clintons",Undirected,1124,,<[2020-10-15T20:52:58.819Z]>,2
+"#biden","#obama",Undirected,1125,,<[2020-10-15T20:52:58.819Z]>,2
+"#clintons","#obama",Undirected,1126,,<[2020-10-15T20:52:58.819Z]>,2
+"#sham","#acb",Undirected,1127,,<[2020-10-15T20:53:19.241Z]>,2
+"#makeamericagreatagain","#maga",Undirected,1128,,<[2020-10-15T20:53:26.717Z]>,2
+"#makeamericagreatagain","#theresistance",Undirected,1129,,<[2020-10-15T20:53:26.717Z]>,2
+"#maga","#theresistance",Undirected,1130,,<[2020-10-15T20:53:26.717Z]>,2
+"#qpoc","#women",Undirected,1131,,<[2020-10-15T20:54:17.533Z]>,2
+"#handmaidamy","#originalist",Undirected,1132,,"<[2020-10-15T20:54:58.921Z, 2020-10-15T20:55:11.043Z, 2020-10-15T20:55:27.307Z]>",6
+"#handmaidamy","#barrettwithdrawnow",Undirected,1133,,"<[2020-10-15T20:54:58.921Z, 2020-10-15T20:55:11.043Z, 2020-10-15T20:55:27.307Z]>",6
+"#handmaidamy","#barrettunqualified",Undirected,1134,,"<[2020-10-15T20:54:58.921Z, 2020-10-15T20:55:11.043Z, 2020-10-15T20:55:27.307Z]>",6
+"#originalist","#barrettwithdrawnow",Undirected,1135,,"<[2020-10-15T20:54:58.921Z, 2020-10-15T20:55:11.043Z, 2020-10-15T20:55:27.307Z]>",6
+"#originalist","#barrettunqualified",Undirected,1136,,"<[2020-10-15T20:54:58.921Z, 2020-10-15T20:55:11.043Z, 2020-10-15T20:55:27.307Z]>",6
+"#m4a","#medicareforall",Undirected,1137,,<[2020-10-15T20:55:10.179Z]>,2
+"#termlimits","#senate",Undirected,1138,,<[2020-10-15T20:55:11.843Z]>,2
+"#termlimits","#feinstein",Undirected,1139,,<[2020-10-15T20:55:11.843Z]>,2
+"#termlimits","#feinsteinresign",Undirected,1140,,<[2020-10-15T20:55:11.843Z]>,2
+"#senate","#feinstein",Undirected,1141,,<[2020-10-15T20:55:11.843Z]>,2
+"#senate","#feinsteinresign",Undirected,1142,,<[2020-10-15T20:55:11.843Z]>,2
+"#feinstein","#feinsteinresign",Undirected,1143,,<[2020-10-15T20:55:11.843Z]>,2
+"#judiciarycommittee","#amyconeybarrett",Undirected,1144,,<[2020-10-15T20:55:16.651Z]>,2
+"#judiciarycommittee","#supremecourt",Undirected,1145,,<[2020-10-15T20:55:16.651Z]>,2
+"#vote","#votethemallout",Undirected,1146,,<[2020-10-15T20:56:30.682Z]>,2
+"#covid__19","#scotushearings",Undirected,1147,,<[2020-10-15T20:56:49.165Z]>,2
+"#covid__19","#trumpcrimefamily",Undirected,1148,,<[2020-10-15T20:56:49.165Z]>,2
+"#covid__19","#voteouteveryrepublican",Undirected,1149,,<[2020-10-15T20:56:49.165Z]>,2
+"#scotushearings","#voteouteveryrepublican",Undirected,1150,,<[2020-10-15T20:56:49.165Z]>,2
+"#trumpcrimefamily","#voteouteveryrepublican",Undirected,1151,,<[2020-10-15T20:56:49.165Z]>,2
+"#voteoutthegop","#moscowmitch",Undirected,1152,,<[2020-10-15T20:57:04.726Z]>,2
+"#scotushearing","#voteblue2020",Undirected,1153,,<[2020-10-15T20:57:17.932Z]>,2
+"#scotushearing","#votebidenharris2020",Undirected,1154,,<[2020-10-15T20:57:17.932Z]>,2
+"#perjury","#voteblue2020",Undirected,1155,,<[2020-10-15T20:57:17.932Z]>,2
+"#perjury","#votebidenharris2020",Undirected,1156,,<[2020-10-15T20:57:17.932Z]>,2
+"#voteblue2020","#votebidenharris2020",Undirected,1157,,<[2020-10-15T20:57:17.932Z]>,2
+"#amyconeybarrett","#amyconeybarrettisunfitforscotus",Undirected,1158,,<[2020-10-15T20:57:28.456Z]>,2
+"#amyconeybarrett","#trumpcrimesyndicate",Undirected,1159,,<[2020-10-15T20:57:28.456Z]>,2
+"#amyconeybarrett","#gopcomplicittraitors",Undirected,1160,,<[2020-10-15T20:57:28.456Z]>,2
+"#amyconeybarrett","#scotusiscompromised",Undirected,1161,,<[2020-10-15T20:57:28.456Z]>,2
+"#amyconeybarrettisunfitforscotus","#trumpcrimesyndicate",Undirected,1162,,<[2020-10-15T20:57:28.456Z]>,2
+"#amyconeybarrettisunfitforscotus","#gop",Undirected,1163,,<[2020-10-15T20:57:28.456Z]>,2
+"#amyconeybarrettisunfitforscotus","#gopcomplicittraitors",Undirected,1164,,<[2020-10-15T20:57:28.456Z]>,2
+"#amyconeybarrettisunfitforscotus","#scotusiscompromised",Undirected,1165,,<[2020-10-15T20:57:28.456Z]>,2
+"#trumpcrimesyndicate","#gop",Undirected,1166,,<[2020-10-15T20:57:28.456Z]>,2
+"#trumpcrimesyndicate","#gopcomplicittraitors",Undirected,1167,,<[2020-10-15T20:57:28.456Z]>,2
+"#trumpcrimesyndicate","#scotusiscompromised",Undirected,1168,,<[2020-10-15T20:57:28.456Z]>,2
+"#gop","#gopcomplicittraitors",Undirected,1169,,<[2020-10-15T20:57:28.456Z]>,2
+"#gop","#scotusiscompromised",Undirected,1170,,<[2020-10-15T20:57:28.456Z]>,2
+"#gopcomplicittraitors","#scotusiscompromised",Undirected,1171,,<[2020-10-15T20:57:28.456Z]>,2
+"#billbarrs","#barrett",Undirected,1172,,<[2020-10-15T20:58:03.859Z]>,2
+"#trump","#gop",Undirected,1173,,<[2020-10-15T20:58:07.403Z]>,2
+"#trump","#mole",Undirected,1174,,<[2020-10-15T20:58:07.403Z]>,2
+"#trump","#swpats",Undirected,1175,,<[2020-10-15T20:58:07.403Z]>,2
+"#gop","#mole",Undirected,1176,,<[2020-10-15T20:58:07.403Z]>,2
+"#gop","#swpats",Undirected,1177,,<[2020-10-15T20:58:07.403Z]>,2
+"#mole","#swpats",Undirected,1178,,<[2020-10-15T20:58:07.403Z]>,2
+"#republican","#courtpacking",Undirected,1179,,<[2020-10-15T20:58:39.526Z]>,2
+"#limitlindseysterm","#lindseygrahamisracist",Undirected,1180,,<[2020-10-15T20:59:10.233Z]>,2
+"#limitlindseysterm","#lindseygrahamisaliar",Undirected,1181,,<[2020-10-15T20:59:10.233Z]>,2
+"#lindseygrahamisracist","#lindseygrahamisaliar",Undirected,1182,,<[2020-10-15T20:59:10.233Z]>,2
+"#authoritariansect","#coneybarrett",Undirected,1183,,"<[2020-10-15T20:59:52.344Z, 2020-10-15T21:00:50.520Z, 2020-10-15T21:02:23.080Z, 2020-10-15T21:03:04.244Z, 2020-10-15T21:04:02.197Z, 2020-10-15T21:05:30.686Z, 2020-10-15T21:06:09.415Z, 2020-10-15T21:07:26.367Z, 2020-10-15T21:08:44.823Z, 2020-10-15T21:09:51.232Z]>",20
+"#authoritariansect","#roevwade",Undirected,1184,,"<[2020-10-15T20:59:52.344Z, 2020-10-15T21:00:50.520Z, 2020-10-15T21:02:23.080Z, 2020-10-15T21:03:04.244Z, 2020-10-15T21:04:02.197Z, 2020-10-15T21:05:30.686Z, 2020-10-15T21:06:09.415Z, 2020-10-15T21:07:26.367Z, 2020-10-15T21:08:44.823Z, 2020-10-15T21:09:51.232Z]>",20
+"#coneybarrett","#roevwade",Undirected,1185,,"<[2020-10-15T20:59:52.344Z, 2020-10-15T21:00:50.520Z, 2020-10-15T21:02:23.080Z, 2020-10-15T21:03:04.244Z, 2020-10-15T21:04:02.197Z, 2020-10-15T21:05:30.686Z, 2020-10-15T21:06:09.415Z, 2020-10-15T21:07:26.367Z, 2020-10-15T21:08:44.823Z, 2020-10-15T21:09:51.232Z]>",20
+"#amyconeybarrettisunfit","#countryoverparty",Undirected,1186,,<[2020-10-15T20:59:52.548Z]>,2
+"#acb","#demandjustice",Undirected,1187,,<[2020-10-15T21:00:05.413Z]>,2
+"#acb","#scotushearing",Undirected,1188,,<[2020-10-15T21:00:05.413Z]>,2
+"#acb","#racialjustice",Undirected,1189,,<[2020-10-15T21:00:05.413Z]>,2
+"#acb","#racialequality",Undirected,1190,,<[2020-10-15T21:00:05.413Z]>,2
+"#acb","#nationalnow",Undirected,1191,,<[2020-10-15T21:00:05.413Z]>,2
+"#demandjustice","#scotushearing",Undirected,1192,,<[2020-10-15T21:00:05.413Z]>,2
+"#demandjustice","#racialjustice",Undirected,1193,,<[2020-10-15T21:00:05.413Z]>,2
+"#demandjustice","#racialequality",Undirected,1194,,<[2020-10-15T21:00:05.413Z]>,2
+"#demandjustice","#nationalnow",Undirected,1195,,<[2020-10-15T21:00:05.413Z]>,2
+"#scotushearing","#racialjustice",Undirected,1196,,<[2020-10-15T21:00:05.413Z]>,2
+"#scotushearing","#racialequality",Undirected,1197,,<[2020-10-15T21:00:05.413Z]>,2
+"#scotushearing","#nationalnow",Undirected,1198,,<[2020-10-15T21:00:05.413Z]>,2
+"#racialjustice","#racialequality",Undirected,1199,,<[2020-10-15T21:00:05.413Z]>,2
+"#racialjustice","#nationalnow",Undirected,1200,,<[2020-10-15T21:00:05.413Z]>,2
+"#racialequality","#nationalnow",Undirected,1201,,<[2020-10-15T21:00:05.413Z]>,2
+"#blockbarrett","#scotushearings",Undirected,1202,,<[2020-10-15T21:00:06.279Z]>,2
+"#amyconeybarrett","#forcedbirther",Undirected,1203,,<[2020-10-15T21:00:24.403Z]>,2
+"#amyconeybarrett","#voteouteveryrepublican",Undirected,1204,,<[2020-10-15T21:00:24.403Z]>,2
+"#forcedbirther","#voteouteveryrepublican",Undirected,1205,,<[2020-10-15T21:00:24.403Z]>,2
+"#trump2020","#elections2020",Undirected,1206,,<[2020-10-15T21:00:28.338Z]>,2
+"#trump2020","#thursdaymotivation",Undirected,1207,,<[2020-10-15T21:00:28.338Z]>,2
+"#trump2020","#voteredtosaveamerica",Undirected,1208,,<[2020-10-15T21:00:28.338Z]>,2
+"#elections2020","#thursdaymotivation",Undirected,1209,,<[2020-10-15T21:00:28.338Z]>,2
+"#elections2020","#voteredtosaveamerica",Undirected,1210,,<[2020-10-15T21:00:28.338Z]>,2
+"#thursdaymotivation","#voteredtosaveamerica",Undirected,1211,,<[2020-10-15T21:00:28.338Z]>,2
+"#voteforscience","#scientistforslotkin",Undirected,1212,,<[2020-10-15T21:00:38.448Z]>,2
+"#voteforscience","#mi08",Undirected,1213,,<[2020-10-15T21:00:38.448Z]>,2
+"#voteforscience","#sciencerising",Undirected,1214,,<[2020-10-15T21:00:38.448Z]>,2
+"#scientistforslotkin","#mi08",Undirected,1215,,<[2020-10-15T21:00:38.448Z]>,2
+"#scientistforslotkin","#sciencerising",Undirected,1216,,<[2020-10-15T21:00:38.448Z]>,2
+"#mi08","#sciencerising",Undirected,1217,,<[2020-10-15T21:00:38.448Z]>,2
+"#votebluetosaveamerica","#votebluedowntheballot",Undirected,1218,,<[2020-10-15T21:01:17.747Z]>,2
+"#amyconeybarrett","#blm",Undirected,1219,,<[2020-10-15T21:01:35.871Z]>,2
+"#scotushearing","#blm",Undirected,1220,,<[2020-10-15T21:01:35.871Z]>,2
+"#dumptrump","#voteblue",Undirected,1221,,<[2020-10-15T21:02:05.272Z]>,2
+"#nevervotedemocratagain","#thursdaywisdom",Undirected,1222,,<[2020-10-15T21:02:15.607Z]>,2
+"#nevervotedemocratagain","#thursdaythoughts",Undirected,1223,,<[2020-10-15T21:02:15.607Z]>,2
+"#nevervotedemocratagain","#voteredtosaveamerica",Undirected,1224,,<[2020-10-15T21:02:15.607Z]>,2
+"#nevervotedemocratagain","#maga",Undirected,1225,,<[2020-10-15T21:02:15.607Z]>,2
+"#nevervotedemocratagain","#walkaway",Undirected,1226,,<[2020-10-15T21:02:15.607Z]>,2
+"#nevervotedemocratagain","#kag2020",Undirected,1227,,<[2020-10-15T21:02:15.607Z]>,2
+"#nevervotedemocratagain","#resist",Undirected,1228,,<[2020-10-15T21:02:15.607Z]>,2
+"#nevervotedemocratagain","#firechucktodd",Undirected,1229,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaywisdom","#thursdaythoughts",Undirected,1230,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaywisdom","#voteredtosaveamerica",Undirected,1231,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaywisdom","#maga",Undirected,1232,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaywisdom","#walkaway",Undirected,1233,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaywisdom","#kag2020",Undirected,1234,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaywisdom","#resist",Undirected,1235,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaywisdom","#firechucktodd",Undirected,1236,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaythoughts","#voteredtosaveamerica",Undirected,1237,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaythoughts","#maga",Undirected,1238,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaythoughts","#walkaway",Undirected,1239,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaythoughts","#kag2020",Undirected,1240,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaythoughts","#resist",Undirected,1241,,<[2020-10-15T21:02:15.607Z]>,2
+"#thursdaythoughts","#firechucktodd",Undirected,1242,,<[2020-10-15T21:02:15.607Z]>,2
+"#voteredtosaveamerica","#maga",Undirected,1243,,<[2020-10-15T21:02:15.607Z]>,2
+"#voteredtosaveamerica","#walkaway",Undirected,1244,,<[2020-10-15T21:02:15.607Z]>,2
+"#voteredtosaveamerica","#kag2020",Undirected,1245,,<[2020-10-15T21:02:15.607Z]>,2
+"#voteredtosaveamerica","#resist",Undirected,1246,,<[2020-10-15T21:02:15.607Z]>,2
+"#voteredtosaveamerica","#firechucktodd",Undirected,1247,,<[2020-10-15T21:02:15.607Z]>,2
+"#maga","#walkaway",Undirected,1248,,<[2020-10-15T21:02:15.607Z]>,2
+"#maga","#kag2020",Undirected,1249,,<[2020-10-15T21:02:15.607Z]>,2
+"#maga","#resist",Undirected,1250,,<[2020-10-15T21:02:15.607Z]>,2
+"#maga","#firechucktodd",Undirected,1251,,<[2020-10-15T21:02:15.607Z]>,2
+"#walkaway","#kag2020",Undirected,1252,,<[2020-10-15T21:02:15.607Z]>,2
+"#walkaway","#resist",Undirected,1253,,<[2020-10-15T21:02:15.607Z]>,2
+"#walkaway","#firechucktodd",Undirected,1254,,<[2020-10-15T21:02:15.607Z]>,2
+"#kag2020","#resist",Undirected,1255,,<[2020-10-15T21:02:15.607Z]>,2
+"#kag2020","#firechucktodd",Undirected,1256,,<[2020-10-15T21:02:15.607Z]>,2
+"#resist","#firechucktodd",Undirected,1257,,<[2020-10-15T21:02:15.607Z]>,2
+"#blockbarrett","#noscotusvote",Undirected,1258,,<[2020-10-15T21:02:35.977Z]>,2
+"#aca","#elections2020",Undirected,1259,,<[2020-10-15T21:02:38.845Z]>,2
+"#aca","#vote",Undirected,1260,,<[2020-10-15T21:02:38.845Z]>,2
+"#elections2020","#vote",Undirected,1261,,<[2020-10-15T21:02:38.845Z]>,2
+"#evangelicals","#catholic",Undirected,1262,,<[2020-10-15T21:02:48.272Z]>,2
+"#evangelicals","#catholicbishops",Undirected,1263,,<[2020-10-15T21:02:48.272Z]>,2
+"#evangelicals","#pope",Undirected,1264,,<[2020-10-15T21:02:48.272Z]>,2
+"#catholic","#catholicbishops",Undirected,1265,,<[2020-10-15T21:02:48.272Z]>,2
+"#catholic","#pope",Undirected,1266,,<[2020-10-15T21:02:48.272Z]>,2
+"#catholicbishops","#pope",Undirected,1267,,<[2020-10-15T21:02:48.272Z]>,2
+"#lindseygraham","#stimuluschecks",Undirected,1268,,<[2020-10-15T21:03:11.710Z]>,2
+"#unprincipled","#hypocritical",Undirected,1269,,"<[2020-10-15T21:03:13.217Z, 2020-10-15T21:17:27.850Z]>",4
+"#unprincipled","#powerabusing",Undirected,1270,,"<[2020-10-15T21:03:13.217Z, 2020-10-15T21:17:27.850Z]>",4
+"#unprincipled","#liars",Undirected,1271,,"<[2020-10-15T21:03:13.217Z, 2020-10-15T21:17:27.850Z]>",4
+"#hypocritical","#powerabusing",Undirected,1272,,"<[2020-10-15T21:03:13.217Z, 2020-10-15T21:17:27.850Z]>",4
+"#hypocritical","#liars",Undirected,1273,,"<[2020-10-15T21:03:13.217Z, 2020-10-15T21:17:27.850Z]>",4
+"#powerabusing","#liars",Undirected,1274,,"<[2020-10-15T21:03:13.217Z, 2020-10-15T21:17:27.850Z]>",4
+"#moscowmitch","#gopcorruptionovercountry",Undirected,1275,,<[2020-10-15T21:04:14.492Z]>,2
+"#moscowmitch","#yourvotematters",Undirected,1276,,<[2020-10-15T21:04:14.492Z]>,2
+"#moscowmitch","#vote",Undirected,1277,,<[2020-10-15T21:04:14.492Z]>,2
+"#moscowmitch","#voteearly",Undirected,1278,,<[2020-10-15T21:04:14.492Z]>,2
+"#moscowmitch","#voteamymcgrath",Undirected,1279,,<[2020-10-15T21:04:14.492Z]>,2
+"#moscowmitch","#votejaimeharrisonsc",Undirected,1280,,<[2020-10-15T21:04:14.492Z]>,2
+"#moscowmitch","#votebluedownballot",Undirected,1281,,<[2020-10-15T21:04:14.492Z]>,2
+"#gopcorruptionovercountry","#yourvotematters",Undirected,1282,,<[2020-10-15T21:04:14.492Z]>,2
+"#gopcorruptionovercountry","#vote",Undirected,1283,,<[2020-10-15T21:04:14.492Z]>,2
+"#gopcorruptionovercountry","#voteearly",Undirected,1284,,<[2020-10-15T21:04:14.492Z]>,2
+"#gopcorruptionovercountry","#voteamymcgrath",Undirected,1285,,<[2020-10-15T21:04:14.492Z]>,2
+"#gopcorruptionovercountry","#votejaimeharrisonsc",Undirected,1286,,<[2020-10-15T21:04:14.492Z]>,2
+"#gopcorruptionovercountry","#votebluedownballot",Undirected,1287,,<[2020-10-15T21:04:14.492Z]>,2
+"#yourvotematters","#vote",Undirected,1288,,<[2020-10-15T21:04:14.492Z]>,2
+"#yourvotematters","#voteearly",Undirected,1289,,<[2020-10-15T21:04:14.492Z]>,2
+"#yourvotematters","#voteamymcgrath",Undirected,1290,,<[2020-10-15T21:04:14.492Z]>,2
+"#yourvotematters","#votejaimeharrisonsc",Undirected,1291,,<[2020-10-15T21:04:14.492Z]>,2
+"#yourvotematters","#votebluedownballot",Undirected,1292,,<[2020-10-15T21:04:14.492Z]>,2
+"#vote","#voteearly",Undirected,1293,,<[2020-10-15T21:04:14.492Z]>,2
+"#vote","#voteamymcgrath",Undirected,1294,,<[2020-10-15T21:04:14.492Z]>,2
+"#vote","#votejaimeharrisonsc",Undirected,1295,,<[2020-10-15T21:04:14.492Z]>,2
+"#vote","#votebluedownballot",Undirected,1296,,<[2020-10-15T21:04:14.492Z]>,2
+"#voteearly","#voteamymcgrath",Undirected,1297,,<[2020-10-15T21:04:14.492Z]>,2
+"#voteearly","#votejaimeharrisonsc",Undirected,1298,,<[2020-10-15T21:04:14.492Z]>,2
+"#voteearly","#votebluedownballot",Undirected,1299,,<[2020-10-15T21:04:14.492Z]>,2
+"#voteamymcgrath","#votejaimeharrisonsc",Undirected,1300,,<[2020-10-15T21:04:14.492Z]>,2
+"#voteamymcgrath","#votebluedownballot",Undirected,1301,,<[2020-10-15T21:04:14.492Z]>,2
+"#votejaimeharrisonsc","#votebluedownballot",Undirected,1302,,<[2020-10-15T21:04:14.492Z]>,2
+"#aag","#aag2020",Undirected,1303,,<[2020-10-15T21:04:16.124Z]>,2
+"#rnc","#republican",Undirected,1304,,<[2020-10-15T21:04:16.130Z]>,2
+"#rnc","#november3rd",Undirected,1305,,<[2020-10-15T21:04:16.130Z]>,2
+"#rnc","#bluetsunami",Undirected,1306,,<[2020-10-15T21:04:16.130Z]>,2
+"#rnc","#usa",Undirected,1307,,<[2020-10-15T21:04:16.130Z]>,2
+"#rnc","#gop",Undirected,1308,,<[2020-10-15T21:04:16.130Z]>,2
+"#republican","#november3rd",Undirected,1309,,<[2020-10-15T21:04:16.130Z]>,2
+"#republican","#bluetsunami",Undirected,1310,,<[2020-10-15T21:04:16.130Z]>,2
+"#republican","#usa",Undirected,1311,,<[2020-10-15T21:04:16.130Z]>,2
+"#republican","#gop",Undirected,1312,,<[2020-10-15T21:04:16.130Z]>,2
+"#november3rd","#bluetsunami",Undirected,1313,,<[2020-10-15T21:04:16.130Z]>,2
+"#november3rd","#usa",Undirected,1314,,<[2020-10-15T21:04:16.130Z]>,2
+"#november3rd","#gop",Undirected,1315,,<[2020-10-15T21:04:16.130Z]>,2
+"#bluetsunami","#usa",Undirected,1316,,<[2020-10-15T21:04:16.130Z]>,2
+"#bluetsunami","#gop",Undirected,1317,,<[2020-10-15T21:04:16.130Z]>,2
+"#usa","#gop",Undirected,1318,,<[2020-10-15T21:04:16.130Z]>,2
+"#trump","#republicans",Undirected,1319,,<[2020-10-15T21:04:52.482Z]>,2
+"#mrcoffee","#twit",Undirected,1320,,<[2020-10-15T21:05:03.228Z]>,2
+"#maga","#trump2020",Undirected,1321,,<[2020-10-15T21:05:09.466Z]>,2
+"#maga","#fourmoreyears",Undirected,1322,,<[2020-10-15T21:05:09.466Z]>,2
+"#maga","#fillthatseat",Undirected,1323,,<[2020-10-15T21:05:09.466Z]>,2
+"#trump2020","#fillthatseat",Undirected,1324,,<[2020-10-15T21:05:09.466Z]>,2
+"#fourmoreyears","#fillthatseat",Undirected,1325,,<[2020-10-15T21:05:09.466Z]>,2
+"#ca27","#capolitics",Undirected,1326,,<[2020-10-15T21:05:36.067Z]>,2
+"#ca27","#capol",Undirected,1327,,<[2020-10-15T21:05:36.067Z]>,2
+"#ca27","#votebymail",Undirected,1328,,<[2020-10-15T21:05:36.067Z]>,2
+"#capolitics","#votebymail",Undirected,1329,,<[2020-10-15T21:05:36.067Z]>,2
+"#capol","#votebymail",Undirected,1330,,<[2020-10-15T21:05:36.067Z]>,2
+"#voteearly","#northcarolina",Undirected,1331,,<[2020-10-15T21:05:37.287Z]>,2
+"#moscowmitch","#moscowlindsey",Undirected,1332,,<[2020-10-15T21:05:42.505Z]>,2
+"#moscowmitch","#moscowbarr",Undirected,1333,,<[2020-10-15T21:05:42.505Z]>,2
+"#moscowmitch","#moscowpence",Undirected,1334,,<[2020-10-15T21:05:42.505Z]>,2
+"#moscowlindsey","#moscowbarr",Undirected,1335,,<[2020-10-15T21:05:42.505Z]>,2
+"#moscowlindsey","#moscowpence",Undirected,1336,,<[2020-10-15T21:05:42.505Z]>,2
+"#moscowbarr","#moscowpence",Undirected,1337,,<[2020-10-15T21:05:42.505Z]>,2
+"#sogi","#txed",Undirected,1338,,<[2020-10-15T21:05:51.215Z]>,2
+"#seatamyconey","#voterepub2020",Undirected,1339,,<[2020-10-15T21:05:55.422Z]>,2
+"#prochoice","#womenshealth",Undirected,1340,,<[2020-10-15T21:06:05.913Z]>,2
+"#bidenharris2020","#armeniangenocide",Undirected,1341,,"<[2020-10-15T21:06:08.300Z, 2020-10-15T21:08:41.305Z]>",4
+"#bidenharris2020","#artsakh",Undirected,1342,,<[2020-10-15T21:06:08.300Z]>,2
+"#bidenharris2020","#erdogan",Undirected,1343,,<[2020-10-15T21:06:08.300Z]>,2
+"#bidenharris2020","#azerbajian",Undirected,1344,,<[2020-10-15T21:06:08.300Z]>,2
+"#armeniangenocide","#artsakh",Undirected,1345,,<[2020-10-15T21:06:08.300Z]>,2
+"#armeniangenocide","#erdogan",Undirected,1346,,<[2020-10-15T21:06:08.300Z]>,2
+"#armeniangenocide","#azerbajian",Undirected,1347,,<[2020-10-15T21:06:08.300Z]>,2
+"#artsakh","#erdogan",Undirected,1348,,<[2020-10-15T21:06:08.300Z]>,2
+"#artsakh","#azerbajian",Undirected,1349,,<[2020-10-15T21:06:08.300Z]>,2
+"#erdogan","#azerbajian",Undirected,1350,,<[2020-10-15T21:06:08.300Z]>,2
+"#goptraitors","#trumpcrimefamily",Undirected,1351,,<[2020-10-15T21:06:42.149Z]>,2
+"#goptraitors","#dictatortrump",Undirected,1352,,<[2020-10-15T21:06:42.149Z]>,2
+"#trumpcrimefamily","#dictatortrump",Undirected,1353,,<[2020-10-15T21:06:42.149Z]>,2
+"#cbsn","#alwayson",Undirected,1354,,<[2020-10-15T21:07:03.579Z]>,2
+"#bidenharriscorrupt","#joebidenukrainescandal",Undirected,1355,,"<[2020-10-15T21:07:38.825Z, 2020-10-15T21:10:22.217Z]>",4
+"#bidenharriscorrupt","#crookedjoebiden",Undirected,1356,,<[2020-10-15T21:07:38.825Z]>,2
+"#joebidenukrainescandal","#crookedjoebiden",Undirected,1357,,<[2020-10-15T21:07:38.825Z]>,2
+"#amyconeybarrett","#trump2020",Undirected,1358,,<[2020-10-15T21:07:45.835Z]>,2
+"#votethegopout","#bluewave",Undirected,1359,,<[2020-10-15T21:08:13.183Z]>,2
+"#votethegopout","#endthecorruptionvoteblue",Undirected,1360,,<[2020-10-15T21:08:13.183Z]>,2
+"#bluewave","#endthecorruptionvoteblue",Undirected,1361,,<[2020-10-15T21:08:13.183Z]>,2
+"#amyconeybarrett","#blue",Undirected,1362,,<[2020-10-15T21:08:14.518Z]>,2
+"#blue","#vote",Undirected,1363,,"<[2020-10-15T21:08:14.518Z, 2020-10-15T21:12:44.055Z]>",4
+"#scotushearings","#thursday",Undirected,1364,,<[2020-10-15T21:08:37.313Z]>,2
+"#scotushearings","#obamacare",Undirected,1365,,<[2020-10-15T21:08:37.313Z]>,2
+"#scotushearings","#affordablecareact",Undirected,1366,,<[2020-10-15T21:08:37.313Z]>,2
+"#scotushearings","#storyteller",Undirected,1367,,<[2020-10-15T21:08:37.313Z]>,2
+"#thursdayvibes","#thursday",Undirected,1368,,<[2020-10-15T21:08:37.313Z]>,2
+"#thursdayvibes","#obamacare",Undirected,1369,,<[2020-10-15T21:08:37.313Z]>,2
+"#thursdayvibes","#affordablecareact",Undirected,1370,,<[2020-10-15T21:08:37.313Z]>,2
+"#thursdayvibes","#storyteller",Undirected,1371,,<[2020-10-15T21:08:37.313Z]>,2
+"#thursday","#obamacare",Undirected,1372,,<[2020-10-15T21:08:37.313Z]>,2
+"#thursday","#affordablecareact",Undirected,1373,,<[2020-10-15T21:08:37.313Z]>,2
+"#thursday","#storyteller",Undirected,1374,,<[2020-10-15T21:08:37.313Z]>,2
+"#obamacare","#affordablecareact",Undirected,1375,,<[2020-10-15T21:08:37.313Z]>,2
+"#obamacare","#storyteller",Undirected,1376,,<[2020-10-15T21:08:37.313Z]>,2
+"#affordablecareact","#storyteller",Undirected,1377,,<[2020-10-15T21:08:37.313Z]>,2
+"#sanctionturkey","#bidenharris2020",Undirected,1378,,<[2020-10-15T21:08:41.305Z]>,2
+"#sanctionturkey","#armeniangenocide",Undirected,1379,,<[2020-10-15T21:08:41.305Z]>,2
+"#sanctionazerbaijan","#bidenharris2020",Undirected,1380,,<[2020-10-15T21:08:41.305Z]>,2
+"#sanctionazerbaijan","#armeniangenocide",Undirected,1381,,<[2020-10-15T21:08:41.305Z]>,2
+"#acb","#amyconeybarrett",Undirected,1382,,<[2020-10-15T21:08:41.545Z]>,2
+"#acb","#amyconeybarrettscotus",Undirected,1383,,<[2020-10-15T21:08:41.545Z]>,2
+"#bravo","#ladies",Undirected,1384,,<[2020-10-15T21:08:42.406Z]>,2
+"#freespeach","#firstamendment",Undirected,1385,,<[2020-10-15T21:08:46.151Z]>,2
+"#freespeach","#fivefreedoms",Undirected,1386,,<[2020-10-15T21:08:46.151Z]>,2
+"#firstamendment","#fivefreedoms",Undirected,1387,,<[2020-10-15T21:08:46.151Z]>,2
+"#feminism","#acb",Undirected,1388,,<[2020-10-15T21:08:48.528Z]>,2
+"#rgb","#liberal",Undirected,1389,,<[2020-10-15T21:08:52.880Z]>,2
+"#rgb","#hypocrisy",Undirected,1390,,<[2020-10-15T21:08:52.880Z]>,2
+"#liberal","#hypocrisy",Undirected,1391,,"<[2020-10-15T21:08:52.880Z, 2020-10-15T21:13:13.059Z]>",4
+"#votethemallout","#flipthesenateblue",Undirected,1392,,<[2020-10-15T21:09:19.776Z]>,2
+"#votethemallout","#bidenharris2020",Undirected,1393,,<[2020-10-15T21:09:19.776Z]>,2
+"#flipthesenateblue","#bidenharris2020",Undirected,1394,,<[2020-10-15T21:09:19.776Z]>,2
+"#senatorwhitehouse","#darkmoney",Undirected,1395,,<[2020-10-15T21:09:32.043Z]>,2
+"#amyconeybarrett","#senatehearing",Undirected,1396,,<[2020-10-15T21:10:28.902Z]>,2
+"#amyconeybarrett","#presidentialelection2020",Undirected,1397,,<[2020-10-15T21:10:28.902Z]>,2
+"#amyconeybarrett","#bushvgore",Undirected,1398,,<[2020-10-15T21:10:28.902Z]>,2
+"#amyconeybarrett","#recusing",Undirected,1399,,<[2020-10-15T21:10:28.902Z]>,2
+"#amyconeybarrett","#voterecounts",Undirected,1400,,<[2020-10-15T21:10:28.902Z]>,2
+"#senatehearing","#presidentialelection2020",Undirected,1401,,<[2020-10-15T21:10:28.902Z]>,2
+"#senatehearing","#bushvgore",Undirected,1402,,<[2020-10-15T21:10:28.902Z]>,2
+"#senatehearing","#recusing",Undirected,1403,,<[2020-10-15T21:10:28.902Z]>,2
+"#senatehearing","#voterecounts",Undirected,1404,,<[2020-10-15T21:10:28.902Z]>,2
+"#presidentialelection2020","#bushvgore",Undirected,1405,,<[2020-10-15T21:10:28.902Z]>,2
+"#presidentialelection2020","#recusing",Undirected,1406,,<[2020-10-15T21:10:28.902Z]>,2
+"#presidentialelection2020","#voterecounts",Undirected,1407,,<[2020-10-15T21:10:28.902Z]>,2
+"#bushvgore","#recusing",Undirected,1408,,<[2020-10-15T21:10:28.902Z]>,2
+"#bushvgore","#voterecounts",Undirected,1409,,<[2020-10-15T21:10:28.902Z]>,2
+"#recusing","#voterecounts",Undirected,1410,,<[2020-10-15T21:10:28.902Z]>,2
+"#blacklivesmatter","#acbhearings",Undirected,1411,,<[2020-10-15T21:10:43.207Z]>,2
+"#healthcare","#abortion",Undirected,1412,,<[2020-10-15T21:10:50.528Z]>,2
+"#stoplyingtrump","#liartrump",Undirected,1413,,<[2020-10-15T21:11:15.420Z]>,2
+"#stoplyingtrump","#losertrump",Undirected,1414,,<[2020-10-15T21:11:15.420Z]>,2
+"#liartrump","#losertrump",Undirected,1415,,<[2020-10-15T21:11:15.420Z]>,2
+"#wethepeople","#justice",Undirected,1416,,<[2020-10-15T21:11:24.790Z]>,2
+"#gophypocrisy","#trumplied200kdied",Undirected,1417,,<[2020-10-15T21:12:34.210Z]>,2
+"#barrett","#election2020",Undirected,1418,,<[2020-10-15T21:12:44.055Z]>,2
+"#barrett","#blue",Undirected,1419,,<[2020-10-15T21:12:44.055Z]>,2
+"#barrett","#vote",Undirected,1420,,<[2020-10-15T21:12:44.055Z]>,2
+"#election2020","#blue",Undirected,1421,,<[2020-10-15T21:12:44.055Z]>,2
+"#election2020","#vote",Undirected,1422,,<[2020-10-15T21:12:44.055Z]>,2
+"#rbg","#liberal",Undirected,1423,,<[2020-10-15T21:13:13.059Z]>,2
+"#rbg","#hypocrisy",Undirected,1424,,<[2020-10-15T21:13:13.059Z]>,2
+"#lindseymustgo","#ladyg",Undirected,1425,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#lindseymustgo","#rbg",Undirected,1426,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#lindseymustgo","#leningradlindsey",Undirected,1427,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#lindseygraham","#ladyg",Undirected,1428,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#lindseygraham","#rbg",Undirected,1429,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#lindseygraham","#leningradlindsey",Undirected,1430,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#ladyg","#amyconeybarrett",Undirected,1431,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#ladyg","#rbg",Undirected,1432,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#ladyg","#leningradlindsey",Undirected,1433,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#amyconeybarrett","#rbg",Undirected,1434,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#rbg","#leningradlindsey",Undirected,1435,,"<[2020-10-15T21:13:25.369Z, 2020-10-15T21:17:51.461Z]>",4
+"#trump2020bestpresidentever","#trump2020tosaveamerica",Undirected,1436,,<[2020-10-15T21:13:36.611Z]>,2
+"#trump2020bestpresidentever","#trump2020nowmorethanever",Undirected,1437,,<[2020-10-15T21:13:36.611Z]>,2
+"#trump2020bestpresidentever","#trump2020landslide",Undirected,1438,,<[2020-10-15T21:13:36.611Z]>,2
+"#trump2020tosaveamerica","#trump2020nowmorethanever",Undirected,1439,,<[2020-10-15T21:13:36.611Z]>,2
+"#trump2020tosaveamerica","#trump2020landslide",Undirected,1440,,<[2020-10-15T21:13:36.611Z]>,2
+"#trump2020nowmorethanever","#trump2020landslide",Undirected,1441,,<[2020-10-15T21:13:36.611Z]>,2
+"#new","#emoluments",Undirected,1442,,<[2020-10-15T21:13:49.828Z]>,2
+"#new","#democratic",Undirected,1443,,<[2020-10-15T21:13:49.828Z]>,2
+"#emoluments","#trump",Undirected,1444,,<[2020-10-15T21:13:49.828Z]>,2
+"#emoluments","#democratic",Undirected,1445,,<[2020-10-15T21:13:49.828Z]>,2
+"#trump","#democratic",Undirected,1446,,<[2020-10-15T21:13:49.828Z]>,2
+"#otd","#unconstitutional",Undirected,1447,,<[2020-10-15T21:14:30.404Z]>,2
+"#joebidenukrainescandal","#censorship2020",Undirected,1448,,<[2020-10-15T21:14:30.971Z]>,2
+"#ladygraham","#ladyg",Undirected,1449,,<[2020-10-15T21:15:05.773Z]>,2
+"#memotosenategop","#barrett",Undirected,1450,,<[2020-10-15T21:15:08.056Z]>,2
+"#democracy","#dotherightthing",Undirected,1451,,<[2020-10-15T21:15:17.322Z]>,2
+"#democracy","#scotushearings",Undirected,1452,,<[2020-10-15T21:15:17.322Z]>,2
+"#democracy","#amyconeybarrett",Undirected,1453,,<[2020-10-15T21:15:17.322Z]>,2
+"#dotherightthing","#scotushearings",Undirected,1454,,<[2020-10-15T21:15:17.322Z]>,2
+"#dotherightthing","#amyconeybarrett",Undirected,1455,,<[2020-10-15T21:15:17.322Z]>,2
+"#senategop","#votebluedownballot",Undirected,1456,,<[2020-10-15T21:15:43.991Z]>,2
+"#crookedjoebiden","#difi",Undirected,1457,,<[2020-10-15T21:15:56.980Z]>,2
+"#kavanaugh","#democrats",Undirected,1458,,<[2020-10-15T21:16:14.592Z]>,2
+"#kavanaugh","#justsaying",Undirected,1459,,<[2020-10-15T21:16:14.592Z]>,2
+"#democrats","#justsaying",Undirected,1460,,<[2020-10-15T21:16:14.592Z]>,2
+"#fakepresident","#bidenharris2020",Undirected,1461,,<[2020-10-15T21:16:17.055Z]>,2
+"#fakepresident","#nov3rdflushtheturd",Undirected,1462,,<[2020-10-15T21:16:17.055Z]>,2
+"#fakepresident","#trumphasnoplan",Undirected,1463,,<[2020-10-15T21:16:17.055Z]>,2
+"#fakepresident","#trumpvirusdeathtoll215k",Undirected,1464,,<[2020-10-15T21:16:17.055Z]>,2
+"#bidenharris2020","#nov3rdflushtheturd",Undirected,1465,,<[2020-10-15T21:16:17.055Z]>,2
+"#bidenharris2020","#trumphasnoplan",Undirected,1466,,<[2020-10-15T21:16:17.055Z]>,2
+"#bidenharris2020","#trumpvirusdeathtoll215k",Undirected,1467,,<[2020-10-15T21:16:17.055Z]>,2
+"#nov3rdflushtheturd","#trumphasnoplan",Undirected,1468,,<[2020-10-15T21:16:17.055Z]>,2
+"#nov3rdflushtheturd","#trumpvirusdeathtoll215k",Undirected,1469,,<[2020-10-15T21:16:17.055Z]>,2
+"#trumphasnoplan","#trumpvirusdeathtoll215k",Undirected,1470,,<[2020-10-15T21:16:17.055Z]>,2
+"#harrisislying","#whatisharrishiding",Undirected,1471,,<[2020-10-15T21:16:35.355Z]>,2
+"#trumpcrimefamily","#trumpcoupplot",Undirected,1472,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcrimefamily","#rbgsdyingwish",Undirected,1473,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcrimefamily","#rbgrevolution",Undirected,1474,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcrimefamily","#trumpisacoward",Undirected,1475,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcrimefamily","#trumplied200kdied",Undirected,1476,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcrimefamily","#rbglegacy",Undirected,1477,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcrimefamily","#berniesanders",Undirected,1478,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisalaughingstock","#trumpcoupplot",Undirected,1479,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisalaughingstock","#rbgsdyingwish",Undirected,1480,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisalaughingstock","#rbgrevolution",Undirected,1481,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisalaughingstock","#trumpisacoward",Undirected,1482,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisalaughingstock","#trumplied200kdied",Undirected,1483,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisalaughingstock","#rbglegacy",Undirected,1484,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisalaughingstock","#berniesanders",Undirected,1485,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcoupplot","#rbgsdyingwish",Undirected,1486,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcoupplot","#rbgrevolution",Undirected,1487,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcoupplot","#trumpisacoward",Undirected,1488,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcoupplot","#trumplied200kdied",Undirected,1489,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcoupplot","#rbglegacy",Undirected,1490,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpcoupplot","#berniesanders",Undirected,1491,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbgsdyingwish","#rbgrevolution",Undirected,1492,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbgsdyingwish","#trumpisacoward",Undirected,1493,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbgsdyingwish","#trumplied200kdied",Undirected,1494,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbgsdyingwish","#rbglegacy",Undirected,1495,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbgsdyingwish","#berniesanders",Undirected,1496,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbgrevolution","#trumpisacoward",Undirected,1497,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbgrevolution","#trumplied200kdied",Undirected,1498,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbgrevolution","#rbglegacy",Undirected,1499,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbgrevolution","#berniesanders",Undirected,1500,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisacoward","#trumplied200kdied",Undirected,1501,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisacoward","#rbglegacy",Undirected,1502,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumpisacoward","#berniesanders",Undirected,1503,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumplied200kdied","#rbglegacy",Undirected,1504,,<[2020-10-15T21:16:39.144Z]>,2
+"#trumplied200kdied","#berniesanders",Undirected,1505,,<[2020-10-15T21:16:39.144Z]>,2
+"#rbglegacy","#berniesanders",Undirected,1506,,<[2020-10-15T21:16:39.144Z]>,2
+"#feinsteinresign","#scotushearing",Undirected,1507,,<[2020-10-15T21:17:12.745Z]>,2
+"#feinsteinresign","#vote",Undirected,1508,,<[2020-10-15T21:17:12.745Z]>,2
+"#scotushearing","#vote",Undirected,1509,,<[2020-10-15T21:17:12.745Z]>,2
+"#bluetsunami","#voteamymcgrath",Undirected,1510,,<[2020-10-15T21:17:12.960Z]>,2
+"#1a","#workers",Undirected,1511,,<[2020-10-15T21:17:34.365Z]>,2
+"#1a","#janusvafscme",Undirected,1512,,<[2020-10-15T21:17:34.365Z]>,2
+"#workers","#janusvafscme",Undirected,1513,,<[2020-10-15T21:17:34.365Z]>,2
+"#sendmitchhome","#sendlindseyhome",Undirected,1514,,<[2020-10-15T21:17:36.404Z]>,2
+"#jaimeharrisonsc","#jaimeharrison",Undirected,1515,,<[2020-10-15T21:17:39.177Z]>,2
+"#jaimeharrisonsc","#lindseygrahamislosing",Undirected,1516,,<[2020-10-15T21:17:39.177Z]>,2
+"#jaimeharrison","#lindseygrahamislosing",Undirected,1517,,<[2020-10-15T21:17:39.177Z]>,2
+"#amyconeybarrett","#voteoutbensasse",Undirected,1518,,<[2020-10-15T21:17:51.601Z]>,2
+"#amyconeybarrett","#votegopout",Undirected,1519,,<[2020-10-15T21:17:51.601Z]>,2
+"#voteoutbensasse","#votegopout",Undirected,1520,,<[2020-10-15T21:17:51.601Z]>,2
