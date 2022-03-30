@@ -1,0 +1,138 @@
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <title>Orange Report</title>
+
+    <style>
+    html, body, table {
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        margin:0px;
+        padding:0;
+        border:0 none;
+    }
+
+    h1, h2 , h3, h4, h5 {
+       padding: 1px;
+       font-size:100%;
+    }
+
+    h1 {
+        color: white;
+        background-color: black;
+        padding: 4px;
+        margin-top: 12px;
+        margin-bottom: 6px;
+    }
+
+    h2 {
+        border-bottom: 1px solid black;
+        padding-left: 2px;
+    }
+
+    ul, table, p {
+        padding: 10px;
+    }
+
+    table {
+        margin-left: -6px;
+    }
+
+    span.timestamp {
+        position: absolute;
+        right: 40px;
+        color:#ddd;
+    }
+
+    div.selected, div.normal {
+        margin: 5px;
+    }
+
+    div.selected {
+        background: #ddd;
+    }
+    @media print{
+        div.selected {
+            background: inherit;
+        }
+        ::-webkit-input-placeholder {
+            color: transparent;
+        }
+    }
+
+    div.content {
+        margin-left: 15px;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 2px 6px 2px 6px;
+    }
+
+    th {
+        font-weight: bold;
+    }
+
+    @media screen {
+        td, th {
+            white-space: nowrap;
+        }
+    }
+
+    .caption {
+        text-align: center;
+        font-size: 90%;
+    }
+
+    img {
+        display: block;
+        margin: auto;
+        max-height: 20cm;
+    }
+
+    span.legend-square {
+        width: 1em;
+        height: 1em;
+        margin-right: 6px;
+        display: inline-block;
+    }
+
+    span.legend-item {
+        margin-right: 24px;
+    }
+
+    textarea {
+        border: 1px solid silver;
+        font-style: italic;
+        width: 100%;
+        height: 4em;
+    }
+
+    .textwrapper {
+        padding: 15px;
+    }
+
+    div.normal textarea:invalid {
+        display: none;
+    }
+
+    div.selected textarea {
+        display: block;
+    }
+
+    @media print{
+        section.section, img {
+            page-break-inside: avoid;
+        }
+    }
+    </style>
+
+
+</head><body>
+
+ 
+
+<div id="7125862992" class="normal" onclick="pybridge._select_item(this.id)"><section class="section"><h1>Confusion Matrix <span class="timestamp">Sat Oct 10 20, 21:50:09</span></h1><div class="content">
+<h2>Confusion matrix for kNN (showing proportion of predicted)</h2><table>
+<tbody><tr><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;text-align:center;vertical-align:middle;">Predicted</td><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td></tr><tr><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">CH</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">CU</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">FC</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">FF</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">FS</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">KC</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">SI</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">∑</td></tr><tr><td style="color:black;border:0;background:transparent;text-align:center;vertical-align:bottom;">Actual</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">CH</td><td style="color:black;border:0;background:#d2d2f5;text-align:right;vertical-align:middle;">88.0 %</td><td style="color:black;border:0;background:#fffefe;text-align:right;vertical-align:middle;">0.3 %</td><td style="color:black;border:0;background:#fdf6f6;text-align:right;vertical-align:middle;">0.9 %</td><td style="color:black;border:0;background:#fef7f7;text-align:right;vertical-align:middle;">0.3 %</td><td style="color:black;border:0;background:#f4cece;text-align:right;vertical-align:middle;">37.0 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:#f5d3d3;text-align:right;vertical-align:middle;">5.6 %</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">1407</td></tr><tr><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">CU</td><td style="color:black;border:0;background:#fffefe;text-align:right;vertical-align:middle;">0.1 %</td><td style="color:black;border:0;background:#d2d2f5;text-align:right;vertical-align:middle;">87.9 %</td><td style="color:black;border:0;background:#fcf1f1;text-align:right;vertical-align:middle;">1.3 %</td><td style="color:black;border:0;background:#fffefe;text-align:right;vertical-align:middle;">0.1 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:#f4cece;text-align:right;vertical-align:middle;">23.8 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">1083</td></tr><tr><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">FC</td><td style="color:black;border:0;background:#fffefe;text-align:right;vertical-align:middle;">0.1 %</td><td style="color:black;border:0;background:#fefbfb;text-align:right;vertical-align:middle;">0.8 %</td><td style="color:black;border:0;background:#cecef4;text-align:right;vertical-align:middle;">92.8 %</td><td style="color:black;border:0;background:#f8dfdf;text-align:right;vertical-align:middle;">1.5 %</td><td style="color:black;border:0;background:#fffefe;text-align:right;vertical-align:middle;">0.9 %</td><td style="color:black;border:0;background:#fffcfc;text-align:right;vertical-align:middle;">0.9 %</td><td style="color:black;border:0;background:#fffefe;text-align:right;vertical-align:middle;">0.1 %</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">797</td></tr><tr><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">FF</td><td style="color:black;border:0;background:#fef9f9;text-align:right;vertical-align:middle;">0.8 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:#f4cece;text-align:right;vertical-align:middle;">4.7 %</td><td style="color:black;border:0;background:#cecef4;text-align:right;vertical-align:middle;">95.8 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:#f4cece;text-align:right;vertical-align:middle;">6.4 %</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">4844</td></tr><tr><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">FS</td><td style="color:black;border:0;background:#f4cece;text-align:right;vertical-align:middle;">7.5 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:#dfdff8;text-align:right;vertical-align:middle;">61.1 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:#fef7f7;text-align:right;vertical-align:middle;">1.0 %</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">185</td></tr><tr><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">KC</td><td style="color:black;border:0;background:#fffefe;text-align:right;vertical-align:middle;">0.1 %</td><td style="color:black;border:0;background:#f4cece;text-align:right;vertical-align:middle;">11.1 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:#d8d8f7;text-align:right;vertical-align:middle;">75.3 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">300</td></tr><tr><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">SI</td><td style="color:black;border:0;background:#fae7e7;text-align:right;vertical-align:middle;">3.6 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:#fffcfc;text-align:right;vertical-align:middle;">0.3 %</td><td style="color:black;border:0;background:#f4cece;text-align:right;vertical-align:middle;">2.3 %</td><td style="color:black;border:0;background:#fffefe;text-align:right;vertical-align:middle;">0.9 %</td><td style="color:black;border:0;background:transparent;text-align:right;vertical-align:middle;">0.0 %</td><td style="color:black;border:0;background:#d2d2f5;text-align:right;vertical-align:middle;">86.8 %</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">1016</td></tr><tr><td style="color:black;border:0;background:transparent;text-align:left;vertical-align:middle;"></td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">∑</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">1460</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">1155</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">766</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">4939</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">108</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">227</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">977</td><td style="color:black;border:0;background:transparent;font-weight: bold;text-align:right;vertical-align:middle;">9632</td></tr></tbody></table></div></section>
+
+<div class="textwrapper"><textarea placeholder="Write a comment..." oninput="this.innerHTML = this.value;pybridge._add_comment(this.parentNode.parentNode.id, this.value);"></textarea></div></div></body></html>
